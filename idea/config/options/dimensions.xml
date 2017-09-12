@@ -20,6 +20,7 @@
     <location key="SettingsEditor.0.0.1600.900@120dpi" x="196" y="0" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1600.900@120dpi" x="484" y="231" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1600.900@120dpi" x="444" y="211" />
+    <location key="FileChooserDialogImpl.0.0.1600.900@120dpi" x="529" y="120" />
     <size key="SettingsEditor.0.0.1920.1080@120dpi" width="1272" height="860" />
     <size key="IdeErrosDialog.0.0.1920.1080@120dpi" width="1175" height="630" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1920" height="274" />

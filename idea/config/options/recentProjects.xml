@@ -2,6 +2,7 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="D:\tmp" />
         <option value="D:\os-spring-boot-projects" />
         <option value="D:\app.workspace\base4.0.0CR\ecloud-microservice-base" />
         <option value="D:\app.workspace\ecloud-microservice-el" />
@@ -22,7 +23,7 @@
         <option value="D:\os-spring-boot-projects" />
       </list>
     </option>
-    <option name="lastPath" value="D:\os-spring-boot-projects" />
+    <option name="lastPath" value="D:\tmp" />
     <option name="additionalInfo">
       <map>
         <entry key="D:\app.workspace\base4.0.0CR\ecloud-microservice-base">
@@ -108,7 +109,7 @@
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505182182119" />
+              <option name="projectOpenTimestamp" value="1505257115071" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
@@ -164,6 +165,17 @@
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\app\idea2016\bin" />
               <option name="projectOpenTimestamp" value="1504980998091" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\tmp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\app\idea2016\bin" />
+              <option name="projectOpenTimestamp" value="1505257135679" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
