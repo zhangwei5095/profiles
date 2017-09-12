@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="readMe" type="PLAIN_TEXT" />
+      <mapping pattern="use" type="PLAIN_TEXT" />
+      <mapping pattern="接口" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,31 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="installed.kotlin.plugin.version" value="1.0.3-release-IJ2016.1-120" />
+    <property name="android-component-compatibility-check" value="1504826038220" />
+    <property name="file.chooser.recent.files" value="D:/os-spring-boot-projects&#10;D:/os-spring-boot-vaadin&#10;D:/app/jdk1.8.0_121&#10;D:/os-spring-boot-ymate" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="18" />
+    <property name="PLUGIN_FILTER" value="markd&#10;mar&#10;mark&#10;kuber&#10;docker" />
+    <property name="markdown.do.not.ask.to.change.preview.provider" value="true" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="selected.color.option.type" value="BOOKMARKS_ATTRIBUTES" />
+    <property name="project.wizard.group" value="SpringInitializr" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="project.wizard.template" value="Spring Initializr" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="Copy.OpenInEditor" value="false" />
+    <property name="spring.initializr.service.url.history" value="https://start.spring.io" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="typescript.merge.auto.import" value="true" />
+    <property name="typescript.use.config.auto.import" value="false" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
+    <property name="search.everywhere.max.popup.width" value="770" />
+  </component>
+</application>

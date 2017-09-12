@@ -1,0 +1,30 @@
+<idea-plugin version="2">
+  <id>org.zalando.intellij.swagger</id>
+  <name>Swagger Plugin</name>
+  <version>0.0.34</version>
+  <vendor email="sebastian.monte@zalando.de" url="https://tech.zalando.com/">Zalando SE</vendor>
+  <depends>com.intellij.modules.lang</depends>
+  <depends>org.jetbrains.plugins.yaml</depends>
+  <description>
+     &lt;p&gt;A plugin to help you easily edit Swagger specification files.&lt;/p&gt;&lt;br/&gt;
+
+     &lt;p&gt;Like this plugin? &lt;b&gt;Give it a star&lt;/b&gt; at &lt;a href="https://github.com/zalando/intellij-swagger"&gt;GitHub&lt;/a&gt; and spread the word!&lt;/p&gt;
+    </description>
+  <idea-version since-build="145"/>
+  <extensions defaultExtensionNs="com.intellij">
+    <completion.contributor language="JSON" implementationClass="org.zalando.intellij.swagger.completion.contributor.SwaggerJsonCompletionContributor"/>
+    <completion.contributor language="yaml" implementationClass="org.zalando.intellij.swagger.completion.contributor.SwaggerYamlCompletionContributor"/>
+    <psi.referenceContributor implementation="org.zalando.intellij.swagger.reference.contributor.SwaggerYamlReferenceContributor"/>
+    <psi.referenceContributor implementation="org.zalando.intellij.swagger.reference.contributor.SwaggerJsonReferenceContributor"/>
+    <lang.findUsagesProvider language="yaml" implementationClass="org.zalando.intellij.swagger.reference.usage.YamlFindUsagesProvider"/>
+    <annotator language="JSON" implementationClass="org.zalando.intellij.swagger.annotator.JsonValidKeyAnnotator"/>
+    <annotator language="yaml" implementationClass="org.zalando.intellij.swagger.annotator.YamlValidKeyAnnotator"/>
+    <annotator language="JSON" implementationClass="org.zalando.intellij.swagger.annotator.JsonValidValueAnnotator"/>
+    <annotator language="yaml" implementationClass="org.zalando.intellij.swagger.annotator.YamlValidValueAnnotator"/>
+    <webBrowserUrlProvider implementation="org.zalando.intellij.swagger.ui.SwaggerUiUrlProvider" order="last"/>
+    <fileBasedIndex implementation="org.zalando.intellij.swagger.index.SwaggerFileIndex"/>
+  </extensions>
+  <actions>
+    <group id="SwaggerOpenInBrowserEditorContextBarGroupAction" class="org.zalando.intellij.swagger.ui.SwaggerOpenInBrowserBaseGroupAction"/>
+  </actions>
+</idea-plugin>

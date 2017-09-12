@@ -1,0 +1,9 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>jfi</find>
+      <find>rapid</find>
+      <find>frame</find>
+    </findStrings>
+  </component>
+</application>

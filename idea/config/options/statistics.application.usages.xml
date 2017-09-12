@@ -1,0 +1,36 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="OpenInBrowser.Chrome" count="1" />
+      <entry feature="OpenInBrowser.default" count="1" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Debug" count="1" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="6" />
+      <entry feature="ide.settings.Appearance" count="15" />
+      <entry feature="ide.settings.Auto_Import" count="2" />
+      <entry feature="ide.settings.Code_Completion" count="1" />
+      <entry feature="ide.settings.Code_Style" count="5" />
+      <entry feature="ide.settings.Compiler" count="4" />
+      <entry feature="ide.settings.Debugger" count="1" />
+      <entry feature="ide.settings.Editor_Tabs" count="1" />
+      <entry feature="ide.settings.File_Encodings" count="7" />
+      <entry feature="ide.settings.General" count="3" />
+      <entry feature="ide.settings.Importing" count="2" />
+      <entry feature="ide.settings.Java" count="1" />
+      <entry feature="ide.settings.Jenkins_Plugin" count="1" />
+      <entry feature="ide.settings.Markdown" count="2" />
+      <entry feature="ide.settings.Maven" count="1" />
+      <entry feature="ide.settings.Plugins" count="13" />
+      <entry feature="ide.settings.Preview" count="3" />
+      <entry feature="ide.settings.System_Settings" count="2" />
+      <entry feature="ide.settings.Updates" count="1" />
+      <entry feature="ide.settings.Vagrant" count="1" />
+      <entry feature="ide.settings.Version_Control" count="3" />
+      <entry feature="idea.caches.invalidated" count="1" />
+      <entry feature="ideaapp.started" count="19" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="12" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="15751" />
+      <entry feature="terminal.win" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+    </counts>
+  </component>
+</application>

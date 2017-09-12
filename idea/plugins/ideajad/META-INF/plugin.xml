@@ -1,0 +1,24 @@
+<idea-plugin url="http://www.tagtraum.com/ideajad.html">
+    <name>IdeaJad</name>
+    <description>Plugin for the popular decompiler JAD</description>
+    <version>2169.1</version>
+    <vendor email="hendrik.schreiber@tagtraum.com" url="http://www.tagtraum.com/">tagtraum industries incorporated</vendor>
+    <idea-version since-build="2169"/>
+
+    <project-components>
+        <component>
+            <interface-class>com.tagtraum.ideajad.IdeaJad</interface-class>
+            <implementation-class>com.tagtraum.ideajad.IdeaJadImpl</implementation-class>
+            <option name="workspace" value="true" />
+        </component>
+    </project-components>
+
+    <actions>
+        <action id="Decompile" class="com.tagtraum.ideajad.DecompileAction" text="_Decompile" description="Decompile classfile">
+            <add-to-group group-id="EditorPopupMenu" anchor="after" relative-to-action="Compile"/>
+            <add-to-group group-id="ProjectViewPopupMenu" anchor="after" relative-to-action="Compile"/>
+            <!-- <add-to-group group-id="ViewMenu" anchor="after" relative-to-action="ViewSource"/> -->
+        </action>
+    </actions>
+</idea-plugin>
+

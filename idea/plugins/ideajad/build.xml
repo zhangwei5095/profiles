@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+
+<!-- ======================================================= -->
+<!-- (c) 2002-2004 tagtraum industries - hs@tagtraum.com     -->
+<!-- ideajad build file for ant >= v1.4                      -->
+<!-- $Id: build.xml,v 1.7 2004/07/07 03:42:53 hendriks73 Exp $ -->
+<!-- ======================================================= -->
+
+<!-- This could probably look a lot cleaner, but for now -->
+<!-- it's ok (rik) -->
+
+<project name="ideajad" default="all" basedir=".">
+
+	<!-- ===================================================== -->
+	<!-- Sets necessary properties                             -->
+	<!-- ===================================================== -->
+	<target name="init" description="Initializes ant..." depends="check">
+        <property name="name" value="ideajad" />
+		<property name="srcdir" value="src/java" />
+        <property name="buildsrc" value="src/build" />
+		<property name="destdir" value="classes" />
+		<property name="testsrcdir" value="src/unittest" />
+		<property name="testdestdir" value="unittest-classes" />
+		<property name="ideajad" value="." />
+		<property name="distbase" value="./dist" />
+        <property name="dist" value="${distbase}/${name}" />
+		<property name="lib" value="lib" />
+        <property name="year" value="2004" />
+        <filter token="version" value="${version}"/>
+        <filter token="year" value="${year}"/>
+
+		<mkdir dir="${destdir}" />
+        <mkdir dir="${lib}" />
+		<!-- <mkdir dir="${testdestdir}" /> -->
+        <path id="classpath">
+            <!-- <fileset dir="${idea.home}/lib/dev">
+                <include name="*.jar"/>
+            </fileset>
+            -->
+            <fileset dir="${lib}">
+                <include name="*.jar"/>
+            </fileset>
+            <fileset dir="${idea.home}/lib">
+                <include name="*.jar"/>
+            </fileset>
+            <pathelement path="${destdir}"/>
+            <pathelement path="${testdestdir}"/>
+        </path>
+	</target>
+
+    <target name="prepare-src" depends="init" description="Prepares the source code">
+        <!-- create directories -->
+        <mkdir dir="${buildsrc}"/>
+        <copy toDir="${buildsrc}" filtering="true" includeEmptyDirs="false">
+            <fileset dir="${srcdir}" excludes="**/*.png"/>
+        </copy>
+        <copy toDir="${buildsrc}" filtering="false" includeEmptyDirs="false">
+            <fileset dir="${srcdir}" includes="**/*.png"/>
+        </copy>
+    </target>
+
+	<!-- ===================================================== -->
+	<!-- Compiles                                              -->
+	<!-- ===================================================== -->
+	<target name="compile" depends="prepare-src" description="Compiles all ideajad classes and builds ideajad.jar">
+		<javac
+			srcdir="${buildsrc}"
+			destdir="${destdir}"
+			includes="com/tagtraum/ideajad/**"
+			optimize="off"
+			debug="on"
+			deprecation="on">
+            	<classpath refid="classpath"/>
+		</javac>
+		<copy toDir="${destdir}">
+			<fileset dir="${buildsrc}" includes="com/tagtraum/ideajad/**/*.png,com/tagtraum/ideajad/**/*.properties"/>
+		</copy>
+		<jar jarfile="lib/ideajad.jar" basedir="${destdir}"/>
+
+	</target>
+
+	<!-- ===================================================== -->
+	<!-- builds the distribution file.                         -->
+	<!-- DOES NOT COMPILE!!! see target 'all'                  -->
+	<!-- ===================================================== -->
+	<target name="dist" depends="compile" description="Build distribution package.">
+        <copy todir="${ideajad}/META-INF/" filtering="true" file="${ideajad}/src/java/com/tagtraum/ideajad/plugin.xml"/>
+		<mkdir dir="${dist}" />
+		<!-- copy scripts etc. -->
+		<copy toDir="${dist}">
+			<fileset dir="${ideajad}"
+				excludes="${testdestdir}/**,${destdir}/**,${distbase}/**,${dist}/**,**/*.psd,**/*.ai,**/*.txt"
+			/>
+		</copy>
+        <copy toDir="${dist}" filtering="true">
+            <fileset dir="${ideajad}"
+                includes="**/*.txt"
+            />
+        </copy>
+
+		<!-- get rid of a copy of the dist dir -->
+		<delete dir="${dist}/dist" />
+
+		<!-- fix for win -->
+		<fixcrlf
+			srcDir="${dist}"
+			includes="**/*.java,**/*.bat,**/LICENSE.txt,**/README.txt,**/CHANGES.txt,**/*.html,**/*.jsp,**/*.css,**/*.txt,**/*.properties,**/*.xml"
+			excludes="**/*.gif,**/*.jpg,**/*.pdf,**/*.jar,**/*.png"
+			eol="crlf"
+			eof="asis"
+		/>
+		<!-- fix for unix -->
+		<fixcrlf
+			srcDir="${dist}"
+			includes="**/*.sh"
+			excludes="**/*.gif,**/*.jpg,**/*.pdf,**/*.jar,**/*.png"
+			eol="lf"
+			eof="remove"
+		/>
+		<!-- build archives -->
+		<zip zipfile="${dist}-${version}.zip" basedir="${distbase}" includes="${name}/**"/>
+		<tar tarfile="${dist}-${version}.tar" basedir="${distbase}" includes="${name}/**"/>
+		<gzip zipfile="${dist}-${version}.tar.gz" src="${dist}-${version}.tar" />
+		<delete file="${dist}-${version}.tar" />
+	</target>
+
+    <target name="deploy" depends="dist">
+        <copy todir="${idea.home}/plugins" overwrite="true">
+            <fileset dir="${distbase}" includes="${name}/**"/>
+        </copy>
+    </target>
+
+	<!-- ===================================================== -->
+	<!-- Deletes the distribution files and the jar files      -->
+	<!-- ===================================================== -->
+	<target name="clean" depends="init" description="Deletes the distribution files, jar files">
+		<delete dir="${destdir}" />
+		<delete dir="${testdestdir}" />
+		<delete dir="${dist}" />
+		<delete dir="${distbase}" />
+        <delete dir="${buildsrc}" />
+	</target>
+
+
+	<!-- ===================================================== -->
+	<!-- compiles, tests, and builds distribution              -->
+	<!-- ===================================================== -->
+	<target name="all" depends="dist" description="Compiles and builds distribution"/>
+
+    <!--
+    Check for external properties
+    -->
+    <target name="loadProperties">
+        <condition property="project.external.config">
+            <and>
+                <available file="${idea.home}" type="dir"/>
+                <isset property="version"/>
+            </and>
+        </condition>
+    </target>
+
+    <target name="check" depends="loadProperties" unless="project.external.config">
+        <echo>
+            External properties not set or have wrong values
+            This ant build must be run with -Didea.home=.. -Dproject.name=..
+            Where:
+            idea.home    contains full path to IntelliJ idea home directory.
+            version      contains the version of this project.
+
+            Currently properties is:
+            idea.home = ${idea.home}
+            version = ${version}
+        </echo>
+        <fail message="Please set idea.home and version properties correctly."/>
+    </target>
+
+</project>

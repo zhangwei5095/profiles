@@ -1,0 +1,144 @@
+Changes $Id: CHANGES.txt,v 1.12 2004/07/07 03:42:53 hendriks73 Exp $
+
+IdeaJad 2169.1
+==============
+- Adapted to changes in open api
+
+IdeaJad 1162.2
+==============
+- Fixed bug in decompiling class from context menu
+- Changed behavior so that an attempt is made to display
+  classes that couldn't be properly decompiled
+
+IdeaJad 1162.1
+==============
+- Adjustments to Idea 4.0
+
+IdeaJad 1138.2
+==============
+- Fixed some bugs in line sorter
+
+IdeaJad 1138.1
+==============
+- Fixed some issues with line sorter and mark as readonly
+
+IdeaJad 1113.1
+==============
+- Updates due to changes in the OpenAPI
+- Fixed version in plugin.xml
+
+IdeaJad 963.1
+=============
+- Fixed decompile jar bug
+- Added jad executable for MacOSX
+- Unix jad executables are now made executable
+  automatically
+- Changed the name of the jar to not include the
+  version number anymore (which was really annoying
+  when updating)
+
+IdeaJad 922.1
+=============
+- Renovated configuration panel
+- Added missing jad options
+- Added an option to re-align decompiled files
+  according to their original line numbers
+- Adapted to some OpenAPI changes
+
+IdeaJad 887.1
+=============
+- Adapted to some OpenAPI changes
+
+IdeaJad 813.1
+=============
+- Added workaround for not supported option
+  nofd on Mac OS X
+
+IdeaJad 809.1
+=============
+- overhauled build script some (borrowed some
+  ideas form PVCSPlugin)
+- removed unncessary jars from distribution
+  (this also fixes problems with aurora)
+
+IdeaJad 691.4
+=============
+- Introduced '-r+' format to work around
+  existing JAD_OPTIONS (thanx to Arvid Hülsebus
+  for raising this issue)
+- Fixed bug in fileextension (thanx to Matthew
+  Inger who provided the fix)
+
+IdeaJad 691.3
+=============
+- Fixed some errors related to decompiling jars
+  (thanx to Dag Welinder for debugging support)
+- Better logging in idea.log
+- 'Mark as readonly' is now configurable
+- Added option to ask for confirmation for
+  navigation triggered decompile
+
+IdeaJad 691.2
+=============
+- Changed to Runtime.exec(String[]) which should
+  allow better support for unix platforms
+- Decompiled files are set to readonly
+
+IdeaJad 691.1
+=============
+- Added support for decompiling whole jars
+- Added icon
+
+IdeaJad 683.1
+=============
+- Fixed display error in options panel (thanx
+  to Sergei S. Ivanov)
+- Clarified some issues in the README
+- Removed 'decompile' from some context menus where
+  it is not needed anymore
+- If multiple files in the project view are selected
+  they are all decompiled (does not work yet for jars)
+
+IdeaJad 666.1
+=============
+- Adjusted to changes in openapi
+- Added decompile menu entries
+- Added automatic decompilation when opening class
+  files
+
+IdeaJad 661.1
+=============
+- Added configuration panel
+- Remembers project specific configurations
+- Only the files that shall be decompiled are
+  extracted from jars
+- Temporary files are now stored in java.io.tmpdir
+  and not in the home directory
+- Multiple frames are handled correctly
+- Added progressbar
+
+IdeaJad 642.1
+=============
+- Adjusted to changes in openapi
+
+IdeaJad 637.1
+=============
+- Adjusted to changes in openapi
+
+IdeaJad 636.1
+=============
+- The stub is closed and the decompiled file opened
+  automatically
+- Temporary extracted jars are now deleted properly
+
+IdeaJad 635.1
+=============
+- Added decompile dir dialog
+- Added support for linux (untested, feedback welcome)
+- Added support for classes that aren't in a jar
+- Some design changes
+- Adjusted to new action names in build 635
+
+IdeaJad 632.1
+=============
+- First version
