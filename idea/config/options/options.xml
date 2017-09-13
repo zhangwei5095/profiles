@@ -2,14 +2,14 @@
   <component name="PropertiesComponent">
     <property name="installed.kotlin.plugin.version" value="1.0.3-release-IJ2016.1-120" />
     <property name="android-component-compatibility-check" value="1504826038220" />
-    <property name="file.chooser.recent.files" value="D:/tmp&#10;D:/os-spring-boot-projects&#10;D:/os-spring-boot-vaadin&#10;D:/app/jdk1.8.0_121&#10;D:/os-spring-boot-ymate" />
+    <property name="file.chooser.recent.files" value="D:/app/groovy-2.4.12&#10;D:/app/profiles/idea/plugins/Docker-plugin.jar&#10;D:/app/profiles/idea/plugins/mybatis-log.jar&#10;D:/tmp&#10;D:/os-spring-boot-projects&#10;D:/os-spring-boot-vaadin&#10;D:/app/jdk1.8.0_121&#10;D:/os-spring-boot-ymate" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="lastTip" value="19" />
-    <property name="PLUGIN_FILTER" value="markd&#10;mar&#10;mark&#10;kuber&#10;docker" />
+    <property name="lastTip" value="24" />
+    <property name="PLUGIN_FILTER" value="maven&#10;yaml&#10;yml&#10;markdo&#10;spring" />
     <property name="markdown.do.not.ask.to.change.preview.provider" value="true" />
     <property name="fileTypeChangedCounter" value="5" />
-    <property name="selected.color.option.type" value="BOOKMARKS_ATTRIBUTES" />
+    <property name="selected.color.option.type" value="JS.DOC_MARKUP" />
     <property name="project.wizard.group" value="SpringInitializr" />
     <property name="MavenModuleWizard.inheritGroupId" value="true" />
     <property name="MavenModuleWizard.inheritVersion" value="true" />
@@ -26,6 +26,9 @@
     <property name="typescript.merge.auto.import" value="true" />
     <property name="typescript.use.config.auto.import" value="false" />
     <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
-    <property name="search.everywhere.max.popup.width" value="770" />
+    <property name="search.everywhere.max.popup.width" value="890" />
+    <property name="plugins.preselection.path" value="$APPLICATION_PLUGINS_DIR$" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="LayoutCode.optimizeImports" value="true" />
   </component>
 </application>

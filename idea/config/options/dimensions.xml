@@ -16,11 +16,17 @@
     <location key="Github.CreateGistDialog.0.0.1920.1080@120dpi" x="755" y="406" />
     <location key="findTextDialog.0.0.1920.1080@120dpi" x="710" y="209" />
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080@120dpi" x="621" y="327" />
-    <location key="#Browse_Repositories.0.0.1600.900@120dpi" x="378" y="70" />
-    <location key="SettingsEditor.0.0.1600.900@120dpi" x="196" y="0" />
+    <location key="#Browse_Repositories.0.0.1600.900@120dpi" x="758" y="53" />
+    <location key="SettingsEditor.0.0.1600.900@120dpi" x="200" y="0" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1600.900@120dpi" x="484" y="231" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1600.900@120dpi" x="444" y="211" />
     <location key="FileChooserDialogImpl.0.0.1600.900@120dpi" x="529" y="120" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1600.900@120dpi" x="575" y="70" />
+    <location key="#Plugins.0.0.1600.900@120dpi" x="391" y="72" />
+    <location key="new project wizard.0.0.1600.900@120dpi" x="159" y="68" />
+    <location key="findTextDialog.0.0.1600.900@120dpi" x="553" y="119" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1600.900@120dpi" x="560" y="58" />
+    <location key="StructurePopup.0.0.1600.900@120dpi" x="521" y="211" />
     <size key="SettingsEditor.0.0.1920.1080@120dpi" width="1272" height="860" />
     <size key="IdeErrosDialog.0.0.1920.1080@120dpi" width="1175" height="630" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1920" height="274" />
@@ -33,9 +39,12 @@
     <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="1864" height="327" />
     <size key="javadoc.popup.0.0.1920.1080@120dpi" width="557" height="207" />
     <size key="javadoc.popup.0.0.1600.900@120dpi" width="557" height="207" />
-    <size key="GridCell.Tab.0.left.0.0.1600.900@120dpi" width="1600" height="106" />
-    <size key="GridCell.Tab.0.center.0.0.1600.900@120dpi" width="1600" height="106" />
-    <size key="GridCell.Tab.0.right.0.0.1600.900@120dpi" width="1600" height="106" />
-    <size key="GridCell.Tab.0.bottom.0.0.1600.900@120dpi" width="1600" height="106" />
+    <size key="GridCell.Tab.0.left.0.0.1600.900@120dpi" width="1600" height="351" />
+    <size key="GridCell.Tab.0.center.0.0.1600.900@120dpi" width="1600" height="351" />
+    <size key="GridCell.Tab.0.right.0.0.1600.900@120dpi" width="1600" height="351" />
+    <size key="GridCell.Tab.0.bottom.0.0.1600.900@120dpi" width="1600" height="351" />
+    <size key="SettingsEditor.0.0.1600.900@120dpi" width="1271" height="850" />
+    <size key="StructurePopup.0.0.1600.900@120dpi" width="532" height="373" />
+    <size key="new project wizard.0.0.1600.900@120dpi" width="1189" height="693" />
   </component>
 </application>

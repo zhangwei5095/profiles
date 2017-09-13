@@ -1,0 +1,57 @@
+<idea-plugin version="2">
+  <id>main.kotlin.com.jimschubert.intellij.swaggercodegen</id>
+  <name>Swagger Codegen</name>
+  <version>0.0.5.SNAPSHOT</version>
+  <vendor email="james.schubert@gmail.com" url="https://jimschubert.us">Jim Schubert</vendor>
+  <description>
+      &lt;h1&gt;Swagger Codegen&lt;/h1&gt;
+      &lt;br/&gt;
+      &lt;a href="https://github.com/jimschubert/intellij-swagger-codegen"&gt;GitHub&lt;/a&gt;&amp;nbsp;
+      &lt;a href="https://github.com/jimschubert/intellij-swagger-codegen/issues"&gt;Issues&lt;/a&gt;
+      &lt;br/&gt;&lt;br/&gt;
+      The &lt;b&gt;Swagger Codegen&lt;/b&gt; plugin allows you to generate client, server, or documentation code
+      from your Swagger/OpenAPI specifications &lt;em&gt;within your IDE&lt;/em&gt;.
+      &lt;br/&gt;&lt;br/&gt;
+      &lt;a href="https://paypal.me/JamesSchubert"&gt;beer $$&lt;/a&gt;
+    </description>
+  <change-notes>
+      &lt;dl&gt;
+        &lt;dt&gt;&lt;a href="https://github.com/jimschubert/intellij-swagger-codegen/tree/v0.0.5"&gt;0.0.5&lt;/a&gt;&lt;/dt&gt;
+        &lt;dd&gt;
+          &lt;ul&gt;
+            &lt;li&gt;UX: Display balloon on successful/failed generation.&lt;/li&gt;
+            &lt;li&gt;Fix possible 'empty language' panel before language selection.&lt;/li&gt;
+            &lt;li&gt;Fix &lt;a href="https://github.com/jimschubert/intellij-swagger-codegen/issues/4"&gt;missing swagger input or config&lt;/a&gt; issue.&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/dd&gt;
+
+        &lt;dt&gt;&lt;a href="https://github.com/jimschubert/intellij-swagger-codegen/tree/v0.0.4"&gt;0.0.4&lt;/a&gt;&lt;/dt&gt;
+        &lt;dd&gt;Update to Swagger Codegen 2.2.2, with support for JSON files and newest idea version&lt;/dd&gt;
+
+        &lt;dt&gt;&lt;a href="https://github.com/jimschubert/intellij-swagger-codegen/tree/v0.0.3"&gt;0.0.3&lt;/a&gt;&lt;/dt&gt;
+        &lt;dd&gt;Update to Swagger Codegen 2.2.1&lt;/dd&gt;
+
+        &lt;dt&gt;&lt;a href="https://github.com/jimschubert/intellij-swagger-codegen/tree/v0.0.2"&gt;0.0.2&lt;/a&gt;&lt;/dt&gt;
+        &lt;dd&gt;Include notice: Swagger® is a registered trademark of SmartBear Software, Inc.&lt;/dd&gt;
+
+        &lt;dt&gt;&lt;a href="https://github.com/jimschubert/intellij-swagger-codegen/tree/v0.0.1"&gt;0.0.1&lt;/a&gt;&lt;/dt&gt;
+        &lt;dd&gt;Magic&lt;/dd&gt;
+      &lt;/dl&gt;
+    
+  </change-notes>
+  <idea-version since-build="143"/>
+  <depends>com.intellij.modules.lang</depends>
+  <depends>com.intellij.modules.platform</depends>
+  <actions>
+    <group popup="true" text="Swagger" id="Swagger" description="Swagger">
+      <add-to-group group-id="CodeMenu" anchor="last"/>
+    </group>
+    <action id="swaggercodegen.generate" class="com.jimschubert.intellij.swaggercodegen.actions.CodegenGenerateAction" text="Generate from Swagger" description="Generate code from a Swagger Definition">
+      <add-to-group group-id="Swagger" anchor="last"/>
+      <keyboard-shortcut keymap="$default" first-keystroke="shift alt G"/>
+    </action>
+    <action id="swaggercodegen.version" class="com.jimschubert.intellij.swaggercodegen.actions.CodegenVersion" text="Codegen Version" description="Swagger Codegen Version">
+      <add-to-group group-id="Swagger" anchor="last"/>
+    </action>
+  </actions>
+</idea-plugin>

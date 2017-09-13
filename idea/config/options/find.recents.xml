@@ -4,6 +4,7 @@
       <find>jfi</find>
       <find>rapid</find>
       <find>frame</find>
+      <find>isHandler</find>
     </findStrings>
   </component>
 </application>
