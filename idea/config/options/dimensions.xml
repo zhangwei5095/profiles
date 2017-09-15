@@ -27,6 +27,16 @@
     <location key="findTextDialog.0.0.1600.900@120dpi" x="553" y="119" />
     <location key="#com.intellij.ide.util.MemberChooser.0.0.1600.900@120dpi" x="560" y="58" />
     <location key="StructurePopup.0.0.1600.900@120dpi" x="521" y="211" />
+    <location key="NewModule_or_Project.wizard.0.0.1600.900@120dpi" x="345" y="187" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@144dpi" x="442" y="223" />
+    <location key="#Project_Structure.0.0.1920.1080@144dpi" x="181" y="0" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@144dpi" x="637" y="148" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080@144dpi" x="545" y="284" />
+    <location key="#Browse_Repositories.0.0.1920.1080@144dpi" x="537" y="148" />
+    <location key="SettingsEditor.0.0.1920.1080@144dpi" x="241" y="0" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080@144dpi" x="960" y="345" />
+    <location key="ProcessPopupWindow.0.0.1920.1080@144dpi" x="1378" y="718" />
+    <location key="IdeErrosDialog.0.0.1920.1080@144dpi" x="277" y="294" />
     <size key="SettingsEditor.0.0.1920.1080@120dpi" width="1272" height="860" />
     <size key="IdeErrosDialog.0.0.1920.1080@120dpi" width="1175" height="630" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1920" height="274" />
@@ -46,5 +56,13 @@
     <size key="SettingsEditor.0.0.1600.900@120dpi" width="1271" height="850" />
     <size key="StructurePopup.0.0.1600.900@120dpi" width="532" height="373" />
     <size key="new project wizard.0.0.1600.900@120dpi" width="1189" height="693" />
+    <size key="NewModule_or_Project.wizard.0.0.1600.900@120dpi" width="909" height="574" />
+    <size key="javadoc.popup.0.0.1920.1080@144dpi" width="670" height="193" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@144dpi" width="1920" height="257" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@144dpi" width="1920" height="257" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@144dpi" width="1920" height="257" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@144dpi" width="1920" height="257" />
+    <size key="ProcessPopupWindow.0.0.1920.1080@144dpi" width="542" height="164" />
+    <size key="IdeErrosDialog.0.0.1920.1080@144dpi" width="1430" height="608" />
   </component>
 </application>

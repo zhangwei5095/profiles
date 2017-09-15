@@ -5,6 +5,7 @@
       <find>rapid</find>
       <find>frame</find>
       <find>isHandler</find>
+      <find>log</find>
     </findStrings>
   </component>
 </application>

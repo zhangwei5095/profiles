@@ -1,0 +1,17 @@
+<application>
+  <component name="IntelliHeap">
+    <setting name="border.color" value="404040" />
+    <setting name="background.color" value="f2f2f2" />
+    <setting name="survivor.color" value="31ce63" />
+    <setting name="eden.color" value="ad00" />
+    <setting name="tenured.color" value="95d7" />
+    <setting name="perm.color" value="b5b555" />
+    <setting name="hotspot.color" value="a13232" />
+    <setting name="loader.color" value="f1973c" />
+    <setting name="gc.color" value="c950b5" />
+    <setting name="finalizer.color" value="0" />
+    <setting name="primary.grid.color" value="c0c0c0" />
+    <setting name="secundary.grid.color" value="5d5d5d" />
+    <history />
+  </component>
+</application>

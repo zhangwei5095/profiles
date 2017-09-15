@@ -3,9 +3,11 @@
     <counts>
       <entry feature="OpenInBrowser.Chrome" count="1" />
       <entry feature="OpenInBrowser.default" count="1" />
+      <entry feature="execute.Application.Run" count="2" />
+      <entry feature="execute.GroovyScriptRunConfiguration.Run" count="2" />
       <entry feature="execute.SpringBootApplicationConfigurationType.Debug" count="1" />
-      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="27" />
-      <entry feature="ide.settings.Appearance" count="15" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="43" />
+      <entry feature="ide.settings.Appearance" count="18" />
       <entry feature="ide.settings.Auto_Import" count="2" />
       <entry feature="ide.settings.Code_Completion" count="1" />
       <entry feature="ide.settings.Code_Style" count="5" />
@@ -20,17 +22,17 @@
       <entry feature="ide.settings.Keymap" count="1" />
       <entry feature="ide.settings.Markdown" count="2" />
       <entry feature="ide.settings.Maven" count="1" />
-      <entry feature="ide.settings.Plugins" count="15" />
-      <entry feature="ide.settings.Preview" count="4" />
+      <entry feature="ide.settings.Plugins" count="19" />
+      <entry feature="ide.settings.Preview" count="5" />
       <entry feature="ide.settings.System_Settings" count="2" />
       <entry feature="ide.settings.Updates" count="1" />
       <entry feature="ide.settings.Vagrant" count="1" />
       <entry feature="ide.settings.Version_Control" count="3" />
-      <entry feature="idea.caches.invalidated" count="1" />
-      <entry feature="ideaapp.started" count="25" />
-      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="18" />
+      <entry feature="idea.caches.invalidated" count="3" />
+      <entry feature="ideaapp.started" count="33" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="48" />
       <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="15751" />
-      <entry feature="terminal.win" count="4" />
+      <entry feature="terminal.win" count="7" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
     </counts>
   </component>

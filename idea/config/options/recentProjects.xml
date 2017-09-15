@@ -2,12 +2,19 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="D:\os-spring-boot-projects" />
+        <option value="D:\tmp2\JGSK" />
+        <option value="D:\tmp2\restfeel" />
+        <option value="D:\tmp" />
+        <option value="D:\tmp2" />
+        <option value="D:\app.workspace\base4.0.0CR\ecloud-microservice-base" />
+        <option value="D:\app.workspace\ecloud\ecloud-framework" />
+        <option value="D:\app.workspace\ecloud-app\ecloud-framework-webapp-endpoint" />
+        <option value="D:\groovy" />
         <option value="D:\app.workspace\ecloud-microservice-el" />
         <option value="D:\app.workspace\demo_zuul" />
         <option value="D:\app.workspace\demo" />
-        <option value="D:\tmp" />
-        <option value="D:\os-spring-boot-projects" />
-        <option value="D:\app.workspace\base4.0.0CR\ecloud-microservice-base" />
+        <option value="D:\groovy\VoucherRule" />
         <option value="D:\os-spring-boot-projects\zipkin-server-example" />
         <option value="D:\os-utils\jwt\multi-file-upload" />
         <option value="D:\app.workspace\el3.5.7\el-parent" />
@@ -21,10 +28,11 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="D:\tmp" />
+        <option value="D:\tmp2" />
+        <option value="D:\os-spring-boot-projects" />
       </list>
     </option>
-    <option name="lastPath" value="D:\app.workspace\ecloud-microservice-el" />
+    <option name="lastPath" value="D:\os-spring-boot-projects" />
     <option name="additionalInfo">
       <map>
         <entry key="D:\app.workspace\base4.0.0CR\ecloud-microservice-base">
@@ -33,7 +41,7 @@
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505181852836" />
+              <option name="projectOpenTimestamp" value="1505440683439" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
@@ -44,7 +52,7 @@
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505265229917" />
+              <option name="projectOpenTimestamp" value="1505347078913" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
@@ -55,7 +63,18 @@
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505267475428" />
+              <option name="projectOpenTimestamp" value="1505351075306" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\app.workspace\ecloud-app\ecloud-framework-webapp-endpoint">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\app\idea2016\bin" />
+              <option name="projectOpenTimestamp" value="1505439275652" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
@@ -66,7 +85,7 @@
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505269362237" />
+              <option name="projectOpenTimestamp" value="1505351645520" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
@@ -78,6 +97,17 @@
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\app\idea2016\bin" />
               <option name="projectOpenTimestamp" value="1504884252040" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\app.workspace\ecloud\ecloud-framework">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\app\idea2016\bin" />
+              <option name="projectOpenTimestamp" value="1505440608699" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
@@ -104,6 +134,28 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="D:\groovy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\app\idea2016\bin" />
+              <option name="projectOpenTimestamp" value="1505437188847" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\groovy\VoucherRule">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\app\idea2016\bin" />
+              <option name="projectOpenTimestamp" value="1505337551918" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="D:\os-spring-boot-examples\mybatisplus-maven-plugin">
           <value>
             <RecentProjectMetaInfo>
@@ -121,7 +173,7 @@
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505257115071" />
+              <option name="projectOpenTimestamp" value="1505457619487" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
@@ -187,13 +239,46 @@
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505263963966" />
+              <option name="projectOpenTimestamp" value="1505444022222" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\tmp2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\app\idea2016\bin" />
+              <option name="projectOpenTimestamp" value="1505441886083" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\tmp2\JGSK">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\app\idea2016\bin" />
+              <option name="projectOpenTimestamp" value="1505444903657" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\tmp2\restfeel">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\app\idea2016\bin" />
+              <option name="projectOpenTimestamp" value="1505444857777" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="D:/app.workspace" />
+    <option name="lastProjectLocation" value="D:/tmp2" />
   </component>
 </application>

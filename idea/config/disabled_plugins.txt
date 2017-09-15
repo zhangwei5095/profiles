@@ -9,21 +9,19 @@ Emma
 Geronimo
 GlassFish
 Heroku
+IntelliHeap
 J2ME
-Jenkins Control Plugin
+Mybatis Log
 StrutsAssistant
 TestNG-J
-com.github.holgerbrandl.pasteimages/
 com.intellij.appengine
 com.intellij.dmserver
 com.intellij.flex
 com.intellij.guice
 com.intellij.play
 com.intellij.tapestry
-com.jetbrains.php
 com.jetbrains.plugins.asp
 hg4idea
 org.intellij.grails
-org.intellij.plugins.markdown
 org.jetbrains.android
-ru.adelf.idea.dotenv
+org.jetbrains.kotlin

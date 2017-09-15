@@ -2,11 +2,11 @@
   <component name="PropertiesComponent">
     <property name="installed.kotlin.plugin.version" value="1.0.3-release-IJ2016.1-120" />
     <property name="android-component-compatibility-check" value="1504826038220" />
-    <property name="file.chooser.recent.files" value="D:/app/groovy-2.4.12&#10;D:/app/profiles/idea/plugins/Docker-plugin.jar&#10;D:/app/profiles/idea/plugins/mybatis-log.jar&#10;D:/tmp&#10;D:/os-spring-boot-projects&#10;D:/os-spring-boot-vaadin&#10;D:/app/jdk1.8.0_121&#10;D:/os-spring-boot-ymate" />
+    <property name="file.chooser.recent.files" value="D:/os-spring-boot-projects&#10;D:/tmp&#10;D:/tmp2&#10;D:/app/groovy-2.4.12&#10;D:/groovy&#10;D:/groovy/camel_note&#10;D:/groovy/VoucherRule&#10;D:/app/profiles/idea/plugins/Docker-plugin.jar&#10;D:/app/profiles/idea/plugins/mybatis-log.jar&#10;D:/os-spring-boot-vaadin&#10;D:/app/jdk1.8.0_121&#10;D:/os-spring-boot-ymate" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="lastTip" value="24" />
-    <property name="PLUGIN_FILTER" value="maven&#10;yaml&#10;yml&#10;markdo&#10;spring" />
+    <property name="lastTip" value="28" />
+    <property name="PLUGIN_FILTER" value="gogs&#10;git&#10;heap&#10;vue&#10;openstack" />
     <property name="markdown.do.not.ask.to.change.preview.provider" value="true" />
     <property name="fileTypeChangedCounter" value="5" />
     <property name="selected.color.option.type" value="JS.DOC_MARKUP" />
@@ -16,7 +16,7 @@
     <property name="project.wizard.template" value="Spring Initializr" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
     <property name="FileTemplates.SelectedTemplate" value="HTML File" />
     <property name="Copy.OpenInEditor" value="false" />
     <property name="spring.initializr.service.url.history" value="https://start.spring.io" />
@@ -30,5 +30,8 @@
     <property name="plugins.preselection.path" value="$APPLICATION_PLUGINS_DIR$" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="last.used.gradle.home" value="D:/app/gradle-3.4.1" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="LayoutCode.processChangedText" value="false" />
   </component>
 </application>
