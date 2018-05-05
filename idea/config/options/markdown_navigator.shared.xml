@@ -1,6 +1,6 @@
 <application>
   <component name="Markdown Navigator">
-    <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.25" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true">
+    <PreviewSettings splitEditorLayout="SECOND" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.25" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true">
       <PanelProvider>
         <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
       </PanelProvider>
@@ -44,7 +44,7 @@
         <option name="GITHUB_LISTS" value="false" />
         <option name="GITHUB_WIKI_LINKS" value="true" />
         <option name="JEKYLL_FRONT_MATTER" value="false" />
-        <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />
+        <option name="SIM_TOC_BLANK_LINE_SPACER" value="false" />
       </ParserOptions>
     </ParserSettings>
     <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true">
@@ -63,7 +63,7 @@
       <ScriptProviders />
       <cssText />
     </CssSettings>
-    <HtmlExportSettings updateOnSave="false" parentDir="" targetDir="" cssDir="" scriptDir="" plainHtml="false" imageDir="" copyLinkedImages="false" imageUniquifyType="0" targetExt="" useTargetExt="false" noCssNoScripts="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" />
+    <HtmlExportSettings updateOnSave="false" parentDir="$ProjectFileDir$" targetDir="$OutputPath$" cssDir="$OutputPath$/css" scriptDir="$OutputPath$/js" plainHtml="false" imageDir="$OutputPath$/img" copyLinkedImages="false" imageUniquifyType="0" targetExt="" useTargetExt="false" noCssNoScripts="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" />
     <LinkMapSettings>
       <textMaps />
     </LinkMapSettings>

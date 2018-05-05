@@ -1,11 +1,52 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>jfi</find>
-      <find>rapid</find>
-      <find>frame</find>
-      <find>isHandler</find>
-      <find>log</find>
+      <find>pagehe</find>
+      <find>pageh</find>
+      <find>AUTHORITY_KEYS</find>
+      <find>defaultProperties</find>
+      <find>app.id</find>
+      <find>tomcat</find>
+      <find>dispatcher</find>
+      <find>okht</find>
+      <find>okhttp</find>
+      <find>user</find>
+      <find>accessor</find>
+      <find>60</find>
+      <find>active</find>
+      <find>6</find>
+      <find>\</find>
+      <find>attemptAuthentication</find>
+      <find>pre</find>
+      <find>prePostEnabled</find>
+      <find>loggingAnnotation</find>
+      <find>configurers</find>
+      <find>resources</find>
+      <find>OAuth2ClientAuthenticationProcessingFilter</find>
+      <find>accessDecisionManager</find>
+      <find>conv</find>
+      <find>Jackson2ObjectMapperBuilder</find>
+      <find>conver</find>
+      <find>ContentNegotiatingViewResolver</find>
+      <find>InternalResourceViewResolver</find>
+      <find>resolver</find>
+      <find>messageconv</find>
     </findStrings>
+    <replaceStrings>
+      <replace>initialize/</replace>
+      <replace>/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\app.workspace\ecloud\ecloud-framework-uaa</dir>
+      <dir>D:\app.workspace\ecloud-microservices\ecloud-microservice-rc\ecloud-microservice-rc-impl</dir>
+      <dir>D:\app.workspace\ecloud\ecloud-framework</dir>
+      <dir>D:\app.workspace\ecloud-microservices\ecloud-microservice-dy</dir>
+      <dir>D:\app.workspace\ecloud\ecloud-framework\ecloud-framework-starter</dir>
+      <dir>D:\app.workspace\ecloud-microservices\ecloud-microservice-dy\ecloud-microservice-dy-impl</dir>
+      <dir>D:\app.workspace\ecloud-microservices\ecloud-microservice-el</dir>
+      <dir>D:\app.workspace\ecloud-microservices\ecloud-microservice-base</dir>
+      <dir>D:\app.workspace\ecloud\ecloud-framework\ecloud-framework-starter\src\main\java\com\shiyuesoft\framework</dir>
+      <dir>D:\app.cloud\xbin-store</dir>
+    </dirStrings>
   </component>
 </application>

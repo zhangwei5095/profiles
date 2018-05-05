@@ -1,37 +1,57 @@
 <application>
   <component name="PropertiesComponent">
-    <property name="installed.kotlin.plugin.version" value="1.0.3-release-IJ2016.1-120" />
-    <property name="android-component-compatibility-check" value="1504826038220" />
-    <property name="file.chooser.recent.files" value="D:/os-spring-boot-projects&#10;D:/tmp&#10;D:/tmp2&#10;D:/app/groovy-2.4.12&#10;D:/groovy&#10;D:/groovy/camel_note&#10;D:/groovy/VoucherRule&#10;D:/app/profiles/idea/plugins/Docker-plugin.jar&#10;D:/app/profiles/idea/plugins/mybatis-log.jar&#10;D:/os-spring-boot-vaadin&#10;D:/app/jdk1.8.0_121&#10;D:/os-spring-boot-ymate" />
+    <property name="file.chooser.recent.files" value="D:/app/groovy-2.4.12&#10;C:/tmp/Gradle3.0自动化项目构建技术精讲+实战/e3bnyl/GroovySpecification&#10;C:/tmp/Gradle3.0自动化项目构建技术精讲+实战/e3bnyl/commonlibrary&#10;C:/tmp/Gradle3.0自动化项目构建技术精讲+实战/e3bnyl&#10;D:/tmp.springcloud&#10;D:/tmp.aipaas&#10;D:/tmp.aliyun&#10;D:/tmp.idea&#10;D:/&#10;D:/tmp.jhipster&#10;D:/app.workspace/ecloud/ecloud-framework-foundation/ecloud-framework-uaa&#10;D:/tmp.IdeaProject&#10;D:/app.workspace/ecloud/ecloud-framework&#10;C:/tmp/Idea Project&#10;E:/BaiduNetdiskDownload/app.Vue核心技术 Vue+Vue-Router+Vuex+SSR实战精讲（不加密版）/vue-tech&#10;E:/BaiduNetdiskDownload/app.Vue核心技术 Vue+Vue-Router+Vuex+SSR实战精讲（不加密版）/vue-ssr-tech&#10;C:/tmp&#10;D:/tmp.social&#10;D:/app.v/springcloud无密/springcloud_sell&#10;D:/app.workspace/ecloud-microservices/ecloud-microservice-demo&#10;D:/tmp.j360&#10;D:/tmp.sso&#10;D:/tmp.groovy&#10;D:/tmp.java&#10;D:/tmp.jeewx&#10;D:/tmp.jee&#10;D:/tmp.workspace&#10;D:/tmp.rabbitmq&#10;D:/tmp.zipkin&#10;D:/tmp.springcloud02" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
-    <property name="lastTip" value="28" />
-    <property name="PLUGIN_FILTER" value="gogs&#10;git&#10;heap&#10;vue&#10;openstack" />
-    <property name="markdown.do.not.ask.to.change.preview.provider" value="true" />
-    <property name="fileTypeChangedCounter" value="5" />
-    <property name="selected.color.option.type" value="JS.DOC_MARKUP" />
+    <property name="lastTip" value="95" />
+    <property name="PLUGIN_FILTER" value="grad&#10;groovy&#10;jre&#10;jrebel&#10;mark" />
     <property name="project.wizard.group" value="SpringInitializr" />
-    <property name="MavenModuleWizard.inheritGroupId" value="true" />
-    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
     <property name="project.wizard.template" value="Spring Initializr" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="fileTypeChangedCounter" value="27" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="SpringBeansModulesPanel[0]" value="0.11111111" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
-    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
-    <property name="Copy.OpenInEditor" value="false" />
-    <property name="spring.initializr.service.url.history" value="https://start.spring.io" />
-    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
-    <property name="decompiler.legal.notice.accepted" value="true" />
-    <property name="typescript.show.auto.import" value="true" />
-    <property name="typescript.merge.auto.import" value="true" />
-    <property name="typescript.use.config.auto.import" value="false" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="SpringMvcModulesPanel[0]" value="0.11111111" />
     <property name="settings.code.style.selected.tab.JAVA" value="Code Generation" />
-    <property name="search.everywhere.max.popup.width" value="890" />
-    <property name="plugins.preselection.path" value="$APPLICATION_PLUGINS_DIR$" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.11111111" />
+    <property name="plugins.preselection.path" value="D:/idea-JavaDocGen" />
     <property name="LayoutCode.optimizeImports" value="true" />
-    <property name="last.used.gradle.home" value="D:/app/gradle-3.4.1" />
-    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="FileTemplates.SelectedTemplate" value="File Header" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
     <property name="LayoutCode.processChangedText" value="false" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="svn" />
+    <property name="markdown.do.not.ask.to.change.preview.provider" value="true" />
+    <property name="python.packaging.author" value="hasee" />
+    <property name="python.packaging.author.email" value="" />
+    <property name="KEYMAP" value="doc&#10;editor" />
+    <property name="selected.color.option.type" value="TEXT" />
+    <property name="RegistryRecentKeys" value="compiler.automake.allow.when.app.running" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Paths" />
+    <property name="jdk.selected.FLEXMARK_JAVA_EXTENSION" value="1.8" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="DEFAULT" />
+    <property name="file.gist.reindex.count" value="1081989" />
+    <property name="ts.lib.d.ts.version" value="2.4.1" />
+    <property name="delete.locally.added.files" value="true" />
+    <property name="LiveContextsPanel[0]" value="0.20703125" />
+    <property name="LiveContextsPanel[1]" value="0.24200627" />
+    <property name="LiveContextsPanel[2]" value="0.16556291" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.8214748" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="gradle.runner.text.console_str" value="true" />
+    <property name="gradle.runner.text.console" value="true" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.4623162" />
   </component>
 </application>

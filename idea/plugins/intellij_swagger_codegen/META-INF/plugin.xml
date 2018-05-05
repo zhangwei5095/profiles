@@ -1,7 +1,7 @@
 <idea-plugin version="2">
   <id>main.kotlin.com.jimschubert.intellij.swaggercodegen</id>
   <name>Swagger Codegen</name>
-  <version>0.0.5.SNAPSHOT</version>
+  <version>0.1.0</version>
   <vendor email="james.schubert@gmail.com" url="https://jimschubert.us">Jim Schubert</vendor>
   <description>
       &lt;h1&gt;Swagger Codegen&lt;/h1&gt;
@@ -16,6 +16,8 @@
     </description>
   <change-notes>
       &lt;dl&gt;
+        &lt;dt&gt;&lt;a href="https://github.com/jimschubert/intellij-swagger-codegen/tree/v0.1.0"&gt;0.1.0&lt;/a&gt;&lt;/dt&gt;
+        &lt;dd&gt;Update to Swagger Codegen 2.2.3&lt;/dd&gt;
         &lt;dt&gt;&lt;a href="https://github.com/jimschubert/intellij-swagger-codegen/tree/v0.0.5"&gt;0.0.5&lt;/a&gt;&lt;/dt&gt;
         &lt;dd&gt;
           &lt;ul&gt;

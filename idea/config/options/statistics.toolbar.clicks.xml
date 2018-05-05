@@ -1,0 +1,41 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Debug@NavBarToolbar" count="30" />
+      <entry action="FileChooser.Refresh@FileChooserDialog" count="5" />
+      <entry action="Images.Editor.ZoomIn@Images.Editor" count="2" />
+      <entry action="Images.Editor.ZoomOut@Images.Editor" count="11" />
+      <entry action="JRebel_Executor@NavBarToolbar" count="2" />
+      <entry action="MarkdownNavigator.EditorOnlyLayoutChange@EditorToolbar" count="10" />
+      <entry action="MarkdownNavigator.HtmlPreviewChange@EditorToolbar" count="2" />
+      <entry action="MarkdownNavigator.ModifiedHtmlTextChange@EditorToolbar" count="2" />
+      <entry action="MarkdownNavigator.PreviewOnlyLayoutChange@EditorToolbar" count="14" />
+      <entry action="MarkdownNavigator.UnmodifiedHtmlTextChange@EditorToolbar" count="2" />
+      <entry action="Maven.ExecuteGoal@Maven_Navigator_Toolbar" count="1" />
+      <entry action="Maven.Reimport@Maven_Navigator_Toolbar" count="16" />
+      <entry action="Pause@DebuggerToolbar" count="1" />
+      <entry action="Rerun@DebuggerToolbar" count="83" />
+      <entry action="Rerun@RunnerToolbar" count="59" />
+      <entry action="Resume@DebuggerToolbar" count="8" />
+      <entry action="Run@NavBarToolbar" count="27" />
+      <entry action="Stop@DebuggerToolbar" count="23" />
+      <entry action="Stop@RunnerToolbar" count="37" />
+      <entry action="UML.ActualSize@Diagrams" count="5" />
+      <entry action="UML.FitContent@Diagrams" count="1" />
+      <entry action="UML.PrintPreview@Diagrams" count="1" />
+      <entry action="UML.ZoomIn@Diagrams" count="7" />
+      <entry action="ViewBreakpoints@DebuggerToolbar" count="3" />
+      <entry action="XDebugger.MuteBreakpoints@DebuggerToolbar" count="13" />
+      <entry action="com.intellij.codeInsight.documentation.DocumentationComponent$MyShowSettingsAction@JavadocInplaceSettings" count="1" />
+      <entry action="com.intellij.execution.configurations.CommandLineState$PauseOutputAction@RunnerToolbar" count="1" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="45" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="133" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="10" />
+      <entry action="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction@EditorToolbar" count="1" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="3" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="12" />
+      <entry action="com.intellij.uml.core.actions.visibility.UmlVisibilityActionGroup@Diagrams" count="1" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.PreviewOnlyLayoutChangeAction@EditorToolbar" count="11" />
+    </counts>
+  </component>
+</application>

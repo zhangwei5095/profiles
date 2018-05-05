@@ -1,0 +1,5 @@
+
+在myeclipse的首选项里找到tomcat的jdk，在vm中加入以下内容，D:\jrebel.jar为自己的路径自己定
+-noverify -javaagent:D:\jrebel.jar -Xmx512M -Xms512M -XX:MaxPermSize=1024m
+用debug启动tomcat既可以实现免重启tomcat了
+要是有内存溢出的情况就扩大512 和1024 即可

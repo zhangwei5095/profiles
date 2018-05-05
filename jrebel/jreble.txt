@@ -1,0 +1,7 @@
+-XX:PermSize=128M -XX:MaxPermSize=512m -Xms256m -Xmx512m -noverify -javaagent:D:/apache-tomcat-6.0.20/bin/jrebel.jar
+
+tomcat6 下发布运用：
+1.把lib下的crimson-1.1.3.jar，Xerces.jar，gnujaxp-1.0.0.jar,jsp-api.jar和,serverlet-api.jar去掉
+2.tomcat6下运用的xml文件中的数据库链接的配置采用如下形式，和tomcat5不同，如下
+    <Resource name="JNDI/DataSource" type="javax.sql.DataSource" password="test" driverClassName="oracle.jdbc.OracleDriver"
+maxIdle="2" maxWait="5000" username="test" url="jdbc:oracle:thin:@192.168.1.10:1521:bhms" maxActive="4"/>

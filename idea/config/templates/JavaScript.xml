@@ -1,0 +1,14 @@
+<templateSet group="JavaScript">
+  <template name="iter" value="for each (var $VAR$ in $ARRAY$) {&#10;  $END$&#10;}" description="Iterate (for each..in) - JavaScript 1.6+" toReformat="true" toShortenFQNames="true">
+    <variable name="ARRAY" expression="jsArrayVariable()" defaultValue="&quot;array &quot;" alwaysStopAt="true" />
+    <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="&quot;o&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="defn" value="define([&quot;$MODULE_REF$&quot;], function($MODULE_VAR$) {&#10;$END$&#10;});" description="Inserts define() expression" toReformat="true" toShortenFQNames="true">
+    <variable name="MODULE_REF" expression="complete()" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="MODULE_VAR" expression="jsDefineParameter(MODULE_REF)" defaultValue="mod" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

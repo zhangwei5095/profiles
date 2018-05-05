@@ -1,11 +1,9 @@
 <application>
   <component name="UISettings">
-    <option name="ANIMATE_WINDOWS" value="false" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
-    <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
-    <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="PRESENTATION_MODE_FONT_SIZE" value="26" />
-    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="MAX_LOOKUP_WIDTH2" value="712" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
   </component>
 </application>

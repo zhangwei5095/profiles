@@ -2,7 +2,15 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
-        <option value="java.unit.tree" />
+        <option value="js.gcl.modules" />
+        <option value="js.nonglobal.symbol.index" />
+        <option value="es6.assignment.index" />
+        <option value="js.exported.index" />
+        <option value="js.global.symbol.index" />
+        <option value="js.namespace.including.local.members.index" />
+        <option value="Css.custom.mixin" />
+        <option value="Css.ampersand.selector" />
+        <option value="lua.global.name" />
         <option value="java.class.fqn" />
         <option value="java.class.shortname" />
         <option value="java.method.parameter.types" />
@@ -19,12 +27,6 @@
         <option value="markdown.flexmark.example.option.index" />
         <option value="Stylus.mixins" />
         <option value="Stylus.variables" />
-        <option value="Scss.mixin" />
-        <option value="Scss.function" />
-        <option value="Scss.placeholder.selector" />
-        <option value="Scss.variable" />
-        <option value="Less.variables" />
-        <option value="Less.mixins" />
         <option value="aj.class.short.name" />
         <option value="aj.itd.class" />
         <option value="aj.itd.method" />
@@ -41,15 +43,6 @@
         <option value="sql.names" />
         <option value="sql.column.name" />
         <option value="sql.table.shortName" />
-        <option value="angularjs.delimiter.index" />
-        <option value="angularjs.ui.router.generic.states.index" />
-        <option value="angularjs.ui.router.states.index" />
-        <option value="angularjs.symbol.index" />
-        <option value="angularjs.filter.index" />
-        <option value="angularjs.module.index" />
-        <option value="angularjs.controller.index" />
-        <option value="angularjs.directives.doc.index" />
-        <option value="angularjs.directives.index" />
         <option value="amd.requirePaths.index" />
         <option value="amd.baseUrl.index" />
         <option value="js.symbol.qualified.names.index" />
@@ -74,6 +67,7 @@
         <option value="Css.class" />
         <option value="dom.elementClass" />
         <option value="dom.namespaceKey" />
+        <option value="java.module.name" />
       </list>
     </option>
   </component>

@@ -1,39 +1,79 @@
 <application>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="OpenInBrowser.Chrome" count="1" />
-      <entry feature="OpenInBrowser.default" count="1" />
-      <entry feature="execute.Application.Run" count="2" />
-      <entry feature="execute.GroovyScriptRunConfiguration.Run" count="2" />
-      <entry feature="execute.SpringBootApplicationConfigurationType.Debug" count="1" />
-      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="43" />
-      <entry feature="ide.settings.Appearance" count="18" />
+      <entry feature="CreateFile.CreateFileAction" count="15" />
+      <entry feature="CreateFile.CreateSpringConfigAction" count="1" />
+      <entry feature="JSDebugConfig.Run.browser-default.preferredBrowser-null.no_mappings" count="4" />
+      <entry feature="OpenInBrowser.Chrome" count="9" />
+      <entry feature="OpenInBrowser.default" count="2" />
+      <entry feature="StripeButton[Version_Control].hidden" count="6" />
+      <entry feature="StripeButton[Version_Control].shown" count="43" />
+      <entry feature="debugger.reload.classes" count="5" />
+      <entry feature="execute.Application.Debug" count="68" />
+      <entry feature="execute.Application.Debug with VisualVM" count="5" />
+      <entry feature="execute.Application.JProfiler" count="1" />
+      <entry feature="execute.Application.Run" count="161" />
+      <entry feature="execute.Application.Run with VisualVM" count="3" />
+      <entry feature="execute.GroovyScriptRunConfiguration.Run" count="4" />
+      <entry feature="execute.JavascriptDebugType.JRebel Executor" count="1" />
+      <entry feature="execute.JavascriptDebugType.Run" count="4" />
+      <entry feature="execute.Remote.Debug" count="4" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Debug" count="246" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Debug with VisualVM" count="1" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.JProfiler" count="1" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.JRebel Executor" count="5" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="677" />
+      <entry feature="ide.help.spring.managing.file.sets" count="1" />
+      <entry feature="ide.settings.Advanced" count="1" />
+      <entry feature="ide.settings.Appearance" count="24" />
       <entry feature="ide.settings.Auto_Import" count="2" />
+      <entry feature="ide.settings.Checkstyle" count="2" />
       <entry feature="ide.settings.Code_Completion" count="1" />
-      <entry feature="ide.settings.Code_Style" count="5" />
-      <entry feature="ide.settings.Compiler" count="4" />
+      <entry feature="ide.settings.Code_Style" count="8" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Compiler" count="7" />
       <entry feature="ide.settings.Debugger" count="1" />
       <entry feature="ide.settings.Editor_Tabs" count="1" />
       <entry feature="ide.settings.File_Encodings" count="7" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="5" />
+      <entry feature="ide.settings.Font" count="1" />
       <entry feature="ide.settings.General" count="3" />
+      <entry feature="ide.settings.HTML_Export" count="1" />
       <entry feature="ide.settings.Importing" count="2" />
+      <entry feature="ide.settings.JMeter" count="2" />
+      <entry feature="ide.settings.JProfiler" count="1" />
       <entry feature="ide.settings.Java" count="1" />
+      <entry feature="ide.settings.Java_Compiler" count="1" />
       <entry feature="ide.settings.Jenkins_Plugin" count="4" />
-      <entry feature="ide.settings.Keymap" count="1" />
-      <entry feature="ide.settings.Markdown" count="2" />
-      <entry feature="ide.settings.Maven" count="1" />
-      <entry feature="ide.settings.Plugins" count="19" />
-      <entry feature="ide.settings.Preview" count="5" />
+      <entry feature="ide.settings.Keymap" count="3" />
+      <entry feature="ide.settings.Live_Templates" count="16" />
+      <entry feature="ide.settings.Markdown" count="3" />
+      <entry feature="ide.settings.Maven" count="7" />
+      <entry feature="ide.settings.Parser" count="3" />
+      <entry feature="ide.settings.Plugins" count="48" />
+      <entry feature="ide.settings.Preview" count="8" />
+      <entry feature="ide.settings.Project_Structure" count="10" />
+      <entry feature="ide.settings.Stylesheet" count="1" />
+      <entry feature="ide.settings.Subversion" count="4" />
       <entry feature="ide.settings.System_Settings" count="2" />
       <entry feature="ide.settings.Updates" count="1" />
-      <entry feature="ide.settings.Vagrant" count="1" />
+      <entry feature="ide.settings.Vagrant" count="3" />
       <entry feature="ide.settings.Version_Control" count="3" />
-      <entry feature="idea.caches.invalidated" count="3" />
-      <entry feature="ideaapp.started" count="33" />
-      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="48" />
-      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="15751" />
-      <entry feature="terminal.win" count="7" />
-      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+      <entry feature="ide.settings.VisualVM_Launcher" count="2" />
+      <entry feature="ide.settings.YAML" count="2" />
+      <entry feature="idea.caches.invalidated" count="7" />
+      <entry feature="ideaapp.started" count="129" />
+      <entry feature="project.view.pane.PackagesPane" count="1" />
+      <entry feature="project.view.pane.ProjectPane" count="1" />
+      <entry feature="project.view.pane.Scope.Tests" count="1" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="1656" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="44144" />
+      <entry feature="terminal.win" count="140" />
+      <entry feature="tips.of.the.day.next" count="1" />
+      <entry feature="uml.ShowDiagram.JAVA.popup" count="1" />
+      <entry feature="uml.ShowDiagram.MAVEN" count="1" />
+      <entry feature="uml.ShowDiagram.MAVEN.popup" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="6" />
     </counts>
   </component>
 </application>

@@ -1,0 +1,5 @@
+eclipse 插件安装文档
+http://www.zeroturnaround.com/jrebel/eclipse-jrebel-tutorial/
+-noverify -javaagent:C:\javarebel\javarebel.jar -Drebel.dirs=D:\myFiles\apache-tomcat-6.0.16\  -Xms128m -Xmx1024m
+//不要下2。0   下1.22
+http://www.zeroturnaround.com/download/

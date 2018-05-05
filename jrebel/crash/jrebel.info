@@ -1,0 +1,28 @@
+Plugin: org.zeroturnaround.javarebel.integration.IntegrationPlugin
+Config: rebel.xml
+Plugin: org.zeroturnaround.javarebel.integration.spring.SpringMvcPlugin
+Plugin: org.zeroturnaround.javarebel.integration.servlet.ServletIntegrationPlugin
+Plugin: org.zeroturnaround.javarebel.integration.spring.SpringPlugin
+License: corporate
+Class:org/springframework/util/ResourceUtils
+Class:org/springframework/beans/CachedIntrospectionResults
+Class:org/springframework/core/io/support/PathMatchingResourcePatternResolver
+Class:org/springframework/beans/factory/support/DefaultListableBeanFactory
+Class:org/springframework/beans/factory/support/AbstractBeanFactory
+Class:org/springframework/beans/factory/support/DefaultSingletonBeanRegistry
+Class:org/springframework/context/annotation/ComponentScanBeanDefinitionParser
+Class:org/springframework/core/LocalVariableTableParameterNameDiscoverer
+Class:org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor
+Class:org/springframework/context/annotation/CommonAnnotationBeanPostProcessor
+Class:org/springframework/context/annotation/ClassPathBeanDefinitionScanner
+Class:org/springframework/beans/factory/xml/XmlBeanDefinitionReader
+Class:org/springframework/web/servlet/DispatcherServlet
+Class:org/springframework/beans/factory/config/PropertyResourceConfigurer
+Class:javax/servlet/ServletContext
+Class:org/springframework/web/servlet/handler/AbstractDetectingUrlHandlerMapping
+Class:org/apache/catalina/core/StandardContext
+Class:org/apache/catalina/loader/WebappLoader
+Class:org/apache/catalina/loader/WebappClassLoader
+Class:org/apache/catalina/core/ApplicationContext
+Class:org/apache/catalina/core/ApplicationContextFacade
+Class:org/apache/catalina/servlets/DefaultServlet

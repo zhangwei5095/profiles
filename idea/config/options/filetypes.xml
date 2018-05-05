@@ -1,11 +1,27 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="readme" type="PLAIN_TEXT" />
-      <mapping pattern="readMe" type="PLAIN_TEXT" />
-      <mapping pattern="use" type="PLAIN_TEXT" />
-      <mapping pattern="接口" type="PLAIN_TEXT" />
+      <mapping pattern="keywords" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-redis" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="fade" type="PLAIN_TEXT" />
+      <mapping pattern="microservice-provider-user" type="PLAIN_TEXT" />
+      <mapping pattern="sql" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern="classpath" type="PLAIN_TEXT" />
+      <mapping pattern="note" type="PLAIN_TEXT" />
+      <mapping pattern="test1" type="PLAIN_TEXT" />
+      <mapping pattern="helloworld" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-mysql" type="PLAIN_TEXT" />
+      <mapping pattern="client" type="PLAIN_TEXT" />
+      <mapping ext="lic" type="PLAIN_TEXT" />
+      <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="factorties" type="PLAIN_TEXT" />
+      <mapping ext="vsdx" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

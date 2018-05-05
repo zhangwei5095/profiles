@@ -1,0 +1,44 @@
+<idea-plugin version="2">
+  <version>1.1</version>
+  <id>com.davidgjm.idea.plugins</id>
+  <name>Java8 Generators</name>
+  <vendor email="dvdgjm@hotmail.com">David Gao</vendor>
+  <description>
+    Enhanced Java toString(), hashcode() and equals() methods generator. Java 8 native features are used.
+    No additional dependencies.
+    </description>
+  <change-notes>
+        &lt;div&gt;
+            &lt;h3&gt;1.1&lt;/h3&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Added a menu item to generate all methods (hashcode, equals and toString)&lt;/li&gt;
+                &lt;li&gt;Coding improvement&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h3&gt;1.0.1&lt;/h3&gt;
+            &lt;p&gt;Changed IntelliJ version compatibility to support legacy releases.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+            &lt;h3&gt;1.0&lt;/h3&gt;
+            &lt;p&gt;Initial release.&lt;/p&gt;
+        &lt;/div&gt;
+    
+    </change-notes>
+  <idea-version since-build="123.72"/>
+  <depends optional="true">
+    com.intellij.modules.lang
+  </depends>
+  <extensions defaultExtensionNs="com.intellij"/>
+  <actions>
+    <action id="generateJava8EqualsHashCode" class="com.davidgjm.idea.plugins.actions.GenerateEqualsAndHashCode" text="Java8 equals() and hashCode()..." description="Generates an implementation of equals() and hashCode() using Java 8 features">
+      <add-to-group group-id="GenerateGroup" anchor="last"/>
+    </action>
+    <action id="generateJava8ToString" class="com.davidgjm.idea.plugins.actions.GenerateToString" text="Java8 toString()..." description="Generates an implementation of toString using Java 8 features">
+      <add-to-group group-id="GenerateGroup" anchor="last"/>
+    </action>
+    <action id="generateJava8All" class="com.davidgjm.idea.plugins.actions.GenerateAll" text="Java8 equals(), hashCode() and toString()..." description="Generates overridden methods using Java 8 features">
+      <add-to-group group-id="GenerateGroup" anchor="last"/>
+    </action>
+  </actions>
+</idea-plugin>

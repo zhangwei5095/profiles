@@ -1,0 +1,248 @@
+<templateSet group="NativeScript Angular2">
+  <template name="nscomponent_template" value="import {Component} from '@angular/core';&#10;@Component({&#10;        selector: '$SELECTOR$',&#10;        template: `&#10;          &lt;StackLayout&gt;&#10;            &lt;Label text=&quot;Sample&quot;&gt;&lt;/Label&gt;&#10;          &lt;/StackLayout&gt;&#10;        `&#10;      })&#10;      export class $CLASSNAME$ {&#10;        constructor() {&#10;        }&#10;      }&#10;" description="{N} Component with template" toReformat="false" toShortenFQNames="false">
+    <variable name="SELECTOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASSNAME" expression="capitalize(SELECTOR)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="nscomponent_templateUrl" value="import {Component} from '@angular/core';&#10;      @Component({&#10;        selector: '$SELECTOR$',&#10;        templateUrl: `$TEMPLATEURL$`&#10;      })&#10;      export class $CLASSNAME$ {&#10;        constructor() {&#10;        }&#10;      }&#10;" description="{N} Component with templateUrl" toReformat="false" toShortenFQNames="false">
+    <variable name="SELECTOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEMPLATEURL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASSNAME" expression="capitalize(SELECTOR)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="nsactionbar" value="&lt;ActionBar title=&quot;Title&quot; icon=&quot;&quot;&gt;&#10;        &lt;ActionItem (tap)=&quot;$TAP$&quot;&gt;&#10;          &lt;Button class=&quot;&quot; text=&quot;Left&quot;&gt;&lt;/Button&gt;&#10;        &lt;/ActionItem&gt;&#10;        &lt;ActionItem (tap)=&quot;$TAP$&quot; ios.position=&quot;right&quot;&gt;&#10;          &lt;Button class=&quot;&quot; text=&quot;Right&quot;&gt;&lt;/Button&gt;&#10;        &lt;/ActionItem&gt;&#10;&lt;/ActionBar&gt;&#10;" description="{N} Action Bar" toReformat="false" toShortenFQNames="false">
+    <variable name="TAP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsactionbarback" value="&lt;ActionBar title=&quot;Title&quot; icon=&quot;&quot;&gt;&#10;        &lt;NavigationButton text=&quot;Back&quot; android.systemIcon=&quot;ic_menu_back&quot;&gt;&lt;/NavigationButton&gt;&#10;        &lt;ActionItem (tap)=&quot;$TAP$&quot; ios.position=&quot;right&quot;&gt;&#10;          &lt;Button class=&quot;&quot; text=&quot;Right&quot; (tap)=&quot;&quot;&gt;&lt;/Button&gt;&#10;        &lt;/ActionItem&gt;&#10;&lt;/ActionBar&gt;&#10;" description="{N} Action Bar with Back" toReformat="false" toShortenFQNames="false">
+    <variable name="TAP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsactionbarcustomtitle" value="&lt;ActionBar&gt;&#10;        &lt;StackLayout orientation=&quot;horizontal&quot;&#10;          ios:horizontalAlignment=&quot;center&quot;&#10;          android:horizontalAlignment=&quot;left&quot;&gt;&#10;          &lt;Label text=&quot;$TEXT$&quot;&gt;&lt;/Label&gt;&#10;        &lt;/StackLayout&gt;&#10;        &lt;ActionItem (tap)=&quot;$TAP$&quot; ios.position=&quot;right&quot;&gt;&#10;          &lt;Button class=&quot;&quot; text=&quot;Right&quot;&gt;&lt;/Button&gt;&#10;        &lt;/ActionItem&gt;&#10;      &lt;/ActionBar&gt;&#10;" description="{N} Action Bar with Custom Title" toReformat="false" toShortenFQNames="false">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TAP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsstack" value="&lt;StackLayout&gt;&#10;    $END$&#10;&lt;/StackLayout&gt;&#10;&#10;" description="{N} Stack Layout" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsstack_horizontal" value="&lt;StackLayout orientation=&quot;horizontal&quot;&gt;&#10;    $END$&#10;&lt;/StackLayout&gt;&#10;&#10;" description="{N} Stack Layout Horizontal" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nswrap" value="&lt;WrapLayout orientation=&quot;horizontal&quot; itemWidth=&quot;$VAR1$&quot; itemHeight=&quot;$VAR2$&quot;&gt;&#10;$END$&#10;&lt;/WrapLayout&gt;&#10;" description="{N} Wrap Layout" toReformat="false" toShortenFQNames="false">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsabsolute" value="&lt;AbsoluteLayout&gt;&#10;&lt;Label text=&quot;This is Label 1&quot; top=&quot;&quot; right=&quot;&quot; bottom=&quot;&quot; left=&quot;&quot;&gt;&lt;/Label&gt;&#10;$END$&#10;&lt;/AbsoluteLayout&gt;&#10;" description="{N} Absolute Layout" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsgrid" value="&lt;GridLayout rows=&quot;$VAR1$&quot; columns=&quot;$VAR2$&quot;&gt;&#10;    $END$&#10;&lt;/GridLayout&gt;" description="{N} Grid Layout" toReformat="true" toShortenFQNames="false">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsgrid_2x2" value="&lt;GridLayout rows=&quot;*, *&quot; columns=&quot;*, *&quot;&gt;&#10;    &lt;Label text=&quot;0, 0&quot; row=&quot;0&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;0, 1&quot; row=&quot;0&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;1, 0&quot; row=&quot;1&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;1, 1&quot; row=&quot;1&quot; col=&quot;1&quot; /&gt;&#10;&lt;/GridLayout&gt;" description="{N} Grid Layout 2x2" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsgrid_2x2_auto" value="&lt;GridLayout rows=&quot;auto, auto&quot; columns=&quot;auto, auto&quot;&gt;&#10;    &lt;Label text=&quot;0, 0&quot; row=&quot;0&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;0, 1&quot; row=&quot;0&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;1, 0&quot; row=&quot;1&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;1, 1&quot; row=&quot;1&quot; col=&quot;1&quot; /&gt;&#10;&lt;/GridLayout&gt;" description="{N} Grid Layout 2x2 Automatic Width/Height" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsgrid_3x3" value="&lt;GridLayout rows=&quot;*, *, *&quot; columns=&quot;*, *, *&quot;&gt;&#10;    &lt;Label text=&quot;0, 0&quot; row=&quot;0&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;0, 1&quot; row=&quot;0&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;0, 2&quot; row=&quot;0&quot; col=&quot;2&quot; /&gt;&#10;    &lt;Label text=&quot;1, 0&quot; row=&quot;1&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;1, 1&quot; row=&quot;1&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;1, 2&quot; row=&quot;1&quot; col=&quot;2&quot; /&gt;&#10;    &lt;Label text=&quot;2, 0&quot; row=&quot;2&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;2, 1&quot; row=&quot;2&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;2, 2&quot; row=&quot;2&quot; col=&quot;2&quot; /&gt;&#10;&lt;/GridLayout&gt;" description="{N} Grid Layout 3x3" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsgrid_3x3_auto" value="&lt;GridLayout rows=&quot;auto, auto, auto&quot; columns=&quot;auto, auto, auto&quot;&gt;&#10;    &lt;Label text=&quot;0, 0&quot; row=&quot;0&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;0, 1&quot; row=&quot;0&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;0, 2&quot; row=&quot;0&quot; col=&quot;2&quot; /&gt;&#10;    &lt;Label text=&quot;1, 0&quot; row=&quot;1&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;1, 1&quot; row=&quot;1&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;1, 2&quot; row=&quot;1&quot; col=&quot;2&quot; /&gt;&#10;    &lt;Label text=&quot;2, 0&quot; row=&quot;2&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;2, 1&quot; row=&quot;2&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;2, 2&quot; row=&quot;2&quot; col=&quot;2&quot; /&gt;&#10;&lt;/GridLayout&gt;" description="{N} Grid Layout 3x3 Automatic Width/Height" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsgrid_4x3" value="&lt;GridLayout rows=&quot;*, *, *, *&quot; columns=&quot;*, *, *&quot;&gt;&#10;    &lt;Label text=&quot;0, 0&quot; row=&quot;0&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;0, 1&quot; row=&quot;0&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;0, 2&quot; row=&quot;0&quot; col=&quot;2&quot; /&gt;&#10;    &lt;Label text=&quot;1, 0&quot; row=&quot;1&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;1, 1&quot; row=&quot;1&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;1, 2&quot; row=&quot;1&quot; col=&quot;2&quot; /&gt;&#10;    &lt;Label text=&quot;2, 0&quot; row=&quot;2&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;2, 1&quot; row=&quot;2&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;2, 2&quot; row=&quot;2&quot; col=&quot;2&quot; /&gt;&#10;    &lt;Label text=&quot;3, 0&quot; row=&quot;3&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;3, 1&quot; row=&quot;3&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;3, 2&quot; row=&quot;3&quot; col=&quot;2&quot; /&gt;&#10;&lt;/GridLayout&gt;" description="{N} Grid Layout 4x3" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsgrid_4x3_auto" value="&lt;GridLayout rows=&quot;auto, auto, auto, auto&quot; columns=&quot;auto, auto, auto&quot;&gt;&#10;    &lt;Label text=&quot;0, 0&quot; row=&quot;0&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;0, 1&quot; row=&quot;0&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;0, 2&quot; row=&quot;0&quot; col=&quot;2&quot; /&gt;&#10;    &lt;Label text=&quot;1, 0&quot; row=&quot;1&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;1, 1&quot; row=&quot;1&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;1, 2&quot; row=&quot;1&quot; col=&quot;2&quot; /&gt;&#10;    &lt;Label text=&quot;2, 0&quot; row=&quot;2&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;2, 1&quot; row=&quot;2&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;2, 2&quot; row=&quot;2&quot; col=&quot;2&quot; /&gt;&#10;    &lt;Label text=&quot;3, 0&quot; row=&quot;3&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;3, 1&quot; row=&quot;3&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;3, 2&quot; row=&quot;3&quot; col=&quot;2&quot; /&gt;&#10;&lt;/GridLayout&gt;" description="{N} Grid Layout 4x3 Automatic Width/Height" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsgrid_4x4" value="&lt;GridLayout rows=&quot;*, *, *, *&quot; columns=&quot;*, *, *, *&quot;&gt;&#10;    &lt;Label text=&quot;0, 0&quot; row=&quot;0&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;0, 1&quot; row=&quot;0&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;0, 2&quot; row=&quot;0&quot; col=&quot;2&quot; /&gt;&#10;    &lt;Label text=&quot;0, 3&quot; row=&quot;0&quot; col=&quot;3&quot; /&gt;&#10;    &lt;Label text=&quot;1, 0&quot; row=&quot;1&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;1, 1&quot; row=&quot;1&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;1, 2&quot; row=&quot;1&quot; col=&quot;2&quot; /&gt;&#10;    &lt;Label text=&quot;1, 3&quot; row=&quot;1&quot; col=&quot;3&quot; /&gt;&#10;    &lt;Label text=&quot;2, 0&quot; row=&quot;2&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;2, 1&quot; row=&quot;2&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;2, 2&quot; row=&quot;2&quot; col=&quot;2&quot; /&gt;&#10;    &lt;Label text=&quot;2, 3&quot; row=&quot;2&quot; col=&quot;3&quot; /&gt;&#10;    &lt;Label text=&quot;3, 0&quot; row=&quot;3&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;3, 1&quot; row=&quot;3&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;3, 2&quot; row=&quot;3&quot; col=&quot;2&quot; /&gt;&#10;    &lt;Label text=&quot;3, 3&quot; row=&quot;3&quot; col=&quot;3&quot; /&gt;&#10;&lt;/GridLayout&gt;" description="{N} Grid Layout 4x4" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsgrid_4x4_auto" value="&lt;GridLayout rows=&quot;auto, auto, auto, auto&quot; columns=&quot;auto, auto, auto, auto&quot;&gt;&#10;    &lt;Label text=&quot;0, 0&quot; row=&quot;0&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;0, 1&quot; row=&quot;0&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;0, 2&quot; row=&quot;0&quot; col=&quot;2&quot; /&gt;&#10;    &lt;Label text=&quot;0, 3&quot; row=&quot;0&quot; col=&quot;3&quot; /&gt;&#10;    &lt;Label text=&quot;1, 0&quot; row=&quot;1&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;1, 1&quot; row=&quot;1&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;1, 2&quot; row=&quot;1&quot; col=&quot;2&quot; /&gt;&#10;    &lt;Label text=&quot;1, 3&quot; row=&quot;1&quot; col=&quot;3&quot; /&gt;&#10;    &lt;Label text=&quot;2, 0&quot; row=&quot;2&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;2, 1&quot; row=&quot;2&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;2, 2&quot; row=&quot;2&quot; col=&quot;2&quot; /&gt;&#10;    &lt;Label text=&quot;2, 3&quot; row=&quot;2&quot; col=&quot;3&quot; /&gt;&#10;    &lt;Label text=&quot;3, 0&quot; row=&quot;3&quot; col=&quot;0&quot; /&gt;&#10;    &lt;Label text=&quot;3, 1&quot; row=&quot;3&quot; col=&quot;1&quot; /&gt;&#10;    &lt;Label text=&quot;3, 2&quot; row=&quot;3&quot; col=&quot;2&quot; /&gt;&#10;    &lt;Label text=&quot;3, 3&quot; row=&quot;3&quot; col=&quot;3&quot; /&gt;&#10;&lt;/GridLayout&gt;" description="{N} Grid Layout 4x4 Automatic Width/Height" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsborder" value="&lt;Border borderRadius=&quot;$VAR1$&quot; borderWidth=&quot;$VAR2$&quot; borderColor=&quot;#000000&quot;&gt;&#10;    $END$             &#10;&lt;/Border&gt;" description="{N} Border" toReformat="true" toShortenFQNames="false">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsbtn" value="&lt;Button text=&quot;$VAR1$&quot; (tap)=&quot;$VAR2$&quot; /&gt;&#10;$END$&#10;" description="{N} Button" toReformat="true" toShortenFQNames="false">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsdate" value="&lt;DatePicker [day]=&quot;$VAR1$&quot; [month]=&quot;$VAR2$&quot; [year]=&quot;$VAR3$&quot;&gt;&lt;/DatePicker&gt;&#10;$END$" description="{N} Date Picker" toReformat="true" toShortenFQNames="false">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsimg" value="&lt;Image src=&quot;$VAR1$&quot; stretch=&quot;none&quot;&gt;&lt;/Image&gt;&#10;$END$" description="{N} Image" toReformat="true" toShortenFQNames="false">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nslabel" value="&lt;Label text=&quot;$VAR1$&quot; textWrap=&quot;true&quot;&gt;&lt;/Label&gt;&#10;$END$" description="{N} Label" toReformat="true" toShortenFQNames="false">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nslistpicker" value="&lt;ListPicker [items]=&quot;$VAR1$&quot; [(ngModel)]=&quot;$VAR2$&quot;&gt;&lt;/ListPicker&gt;             $END$" description="{N} List Picker" toReformat="true" toShortenFQNames="false">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nslistview" value="&lt;ListView [items]=&quot;source&quot; (loaded)=&quot;onLoaded($event)&quot; (itemLoading)=&quot;onItemLoading($event)&quot; (itemTap)=&quot;onItemTap($event)&quot;&gt;&#10;  &lt;template let-item=&quot;item&quot; let-odd=&quot;odd&quot; let-even=&quot;even&quot;&gt;&#10;      $END$&#10;  &lt;/template&gt;&#10;&lt;/ListView&gt;" description="{N} List View" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsloading" value="&lt;ActivityIndicator width=&quot;100&quot; height=&quot;100&quot; [busy]=&quot;$VAR1$&quot;&gt;&lt;/ActivityIndicator&gt;&#10;$END$" description="{N} Activity Indicator" toReformat="true" toShortenFQNames="false">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nspage" value="&lt;Page xmlns=&quot;http://schemas.nativescript.org/tns.xsd&quot; loaded=&quot;onLoaded&quot; navigatedTo=&quot;onNavigatedTo&quot;&gt;&#10;    $END$&#10;&lt;/Page&gt;" description="{N} Page" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nspassword" value="&lt;TextField hint=&quot;Enter your password.&quot; text=&quot;{{ $VAR1$ }}&quot; secure=&quot;true&quot;&gt;&lt;/TextField&gt;&#10;$END$" description="{N} Password Field" toReformat="true" toShortenFQNames="false">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsprogress" value="&lt;Progress value=&quot;{{ $VAR1$ }}&quot;&gt;&lt;/Progress&gt; &#10;$END$" description="{N} Progress Bar" toReformat="true" toShortenFQNames="false">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsscrollview" value="&lt;ScrollView&gt;&#10;    $END$&#10;&lt;/ScrollView&gt;" description="{N} Scroll View" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nssearchbar" value="&lt;SearchBar id=&quot;$searchBar$&quot; hint=&quot;$search$&quot; text=&quot;$VAR3$&quot; clear=&quot;$onClear$&quot; submit=&quot;$onSubmit$&quot;&gt;&lt;/SearchBar&gt;&#10;$END$" description="{N} SearchBar" toReformat="true" toShortenFQNames="false">
+    <variable name="searchBar" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="search" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="onClear" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="onSubmit" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nssegmentedbar" value="&lt;SegmentedBar [items]=&quot;$ITEMS$&quot; [(ngModel)]=&quot;$MODEL$&quot;&gt;&lt;/SegmentedBar&gt;" description="{N} Segmented Bar" toReformat="true" toShortenFQNames="false">
+    <variable name="ITEMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="MODEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsslider" value="&lt;Slider minValue=&quot;$VAR1$&quot; maxValue=&quot;$VAR2$&quot; value=&quot;{{ $VAR3$ }}&quot;&gt;&lt;/Slider&gt;&#10;$END$" description="{N} Slider" toReformat="true" toShortenFQNames="false">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nsswitch" value="&lt;Switch [checked]=&quot;$VAR1$&quot;&gt;&lt;/Switch&gt;&#10;$END$&#10;    " description="{N} Switch" toReformat="true" toShortenFQNames="false">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nstabview" value="&lt;TabView #tabView&gt;&#10;    &lt;StackLayout *tabItem=&quot;{title: 'Tab 1'}&quot;&gt;&#10;      &lt;Label text=&quot;This is Label in Tab 1&quot;&gt;&lt;/Label&gt;&#10;    &lt;/StackLayout&gt;&#10;    &lt;StackLayout *tabItem=&quot;{title: 'Tab 2'}&quot;&gt;&#10;      &lt;Label text=&quot;This is Label in Tab 2&quot;&gt;&lt;/Label&gt;&#10;    &lt;/StackLayout&gt;&#10;&lt;/TabView&gt;&#10; $END$" description="{N} Tab View" toReformat="true" toShortenFQNames="false">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nstextfield" value="&lt;TextField hint=&quot;$VAR1$&quot; [text]=&quot;$VAR2$&quot;&gt;&lt;/TextField&gt;&#10;$END$" description="{N} Text Field" toReformat="true" toShortenFQNames="false">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nstextview_editable" value="&lt;TextView hint=&quot;$VAR1$&quot; [text]=&quot;$VAR2$&quot; editable=&quot;true&quot;&gt;&lt;/TextView&gt;&#10;$END$" description="{N} Editable TextView" toReformat="true" toShortenFQNames="false">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nstextview_non" value="&lt;TextView text=&quot;{{ $VAR1$ }}&quot; editable=&quot;false&quot; /&gt;&#10;$END$" description="{N} Non-Editable TextView" toReformat="true" toShortenFQNames="false">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nstime" value="&lt;TimePicker [hour]=&quot;$VAR1$&quot; [minute]=&quot;$VAR2$&quot;&gt;&lt;/TimePicker&gt;&#10;$END$" description="{N} Time Picker" toReformat="true" toShortenFQNames="false">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="nswebview" value="&lt;WebView src=&quot;$SomeUrlOrPathToLocalFileOrHtmlString$&quot; /&gt;&#10;$END$" description="{N} Web View" toReformat="true" toShortenFQNames="false">
+    <variable name="SomeUrlOrPathToLocalFileOrHtmlString" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

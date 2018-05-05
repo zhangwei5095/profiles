@@ -1,30 +1,25 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="CompilerConfiguration">
-        <resourceExtensions />
-        <wildcardResourcePatterns>
-          <entry name="!?*.java" />
-          <entry name="!?*.form" />
-          <entry name="!?*.class" />
-          <entry name="!?*.groovy" />
-          <entry name="!?*.scala" />
-          <entry name="!?*.flex" />
-          <entry name="!?*.kt" />
-          <entry name="!?*.clj" />
-          <entry name="!?*.aj" />
-        </wildcardResourcePatterns>
-        <annotationProcessing>
-          <profile default="true" name="Default" enabled="false">
-            <processorPath useClasspath="true" />
-          </profile>
-        </annotationProcessing>
+      <component name="CheckStyle-IDEA">
+        <option name="configuration">
+          <map>
+            <entry key="checkstyle-version" value="8.2" />
+            <entry key="copy-libs" value="true" />
+            <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
+            <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
+            <entry key="scan-before-checkin" value="false" />
+            <entry key="scanscope" value="JavaOnly" />
+            <entry key="suppress-errors" value="false" />
+          </map>
+        </option>
       </component>
-      <component name="Encoding" native2AsciiForPropertiesFiles="true">
-        <file url="PROJECT" charset="UTF-8" />
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
       </component>
       <component name="MarkdownProjectSettings">
-        <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.25" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true">
+        <PreviewSettings splitEditorLayout="SECOND" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.25" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true">
           <PanelProvider>
             <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
           </PanelProvider>
@@ -68,7 +63,7 @@
             <option name="GITHUB_LISTS" value="false" />
             <option name="GITHUB_WIKI_LINKS" value="true" />
             <option name="JEKYLL_FRONT_MATTER" value="false" />
-            <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />
+            <option name="SIM_TOC_BLANK_LINE_SPACER" value="false" />
           </ParserOptions>
         </ParserSettings>
         <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true">
@@ -87,7 +82,7 @@
           <ScriptProviders />
           <cssText />
         </CssSettings>
-        <HtmlExportSettings updateOnSave="false" parentDir="$ProjectFileDir$" targetDir="$ProjectFileDir$" cssDir="" scriptDir="" plainHtml="false" imageDir="" copyLinkedImages="false" imageUniquifyType="0" targetExt="" useTargetExt="false" noCssNoScripts="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" />
+        <HtmlExportSettings updateOnSave="false" parentDir="$ProjectFileDir$" targetDir="$OutputPath$" cssDir="$OutputPath$/css" scriptDir="$OutputPath$/js" plainHtml="false" imageDir="$OutputPath$/img" copyLinkedImages="false" imageUniquifyType="0" targetExt="" useTargetExt="false" noCssNoScripts="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" />
         <LinkMapSettings>
           <textMaps />
         </LinkMapSettings>
@@ -95,7 +90,7 @@
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="mavenHome" value="Bundled (Maven 3)" />
+            <option name="mavenHome" value="D:/app/apache-maven-3.3.9" />
           </MavenGeneralSettings>
         </option>
       </component>
@@ -109,29 +104,23 @@
             </expanded-state>
             <selected-state>
               <State>
-                <id>Android</id>
+                <id>AngularJS</id>
               </State>
             </selected-state>
           </profile-state>
         </entry>
       </component>
-      <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-        <OptionsSetting value="true" id="Add" />
-        <OptionsSetting value="true" id="Remove" />
-        <OptionsSetting value="true" id="Checkout" />
-        <OptionsSetting value="true" id="Update" />
-        <OptionsSetting value="true" id="Status" />
-        <OptionsSetting value="true" id="Edit" />
-        <ConfirmationsSetting value="0" id="Add" />
-        <ConfirmationsSetting value="0" id="Remove" />
-      </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.startup.StartupConfigurable" />
         <property name="project.structure.last.edited" value="Project" />
         <property name="project.structure.proportion" value="0.0" />
         <property name="project.structure.side.proportion" value="0.0" />
+        <property name="jmeter.home" value="" />
+        <property name="jmeter.override" value="false" />
+        <property name="last_opened_file_path" value="D:/app/jdk1.8.0_121/bin/jvisualvm.exe" />
+        <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="Applet" factoryName="Applet">
@@ -165,11 +154,26 @@
           <method />
         </configuration>
       </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\hasee\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="VagrantProjectSettings">
+        <option name="instanceFolder" value="" />
+        <option name="provider" value="" />
+      </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
       </component>
       <component name="VcsManagerConfiguration">
         <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+      </component>
+      <component name="designer.settings">
+        <option name="autodetectServerAddress" value="true" />
+        <option name="serverIp" value="localhost" />
+      </component>
+      <component name="designer2.settings">
+        <option name="autodetectServerAddress" value="true" />
+        <option name="serverIp" value="localhost" />
       </component>
       <component name="masterDetails">
         <states>
@@ -198,6 +202,17 @@
           <state key="JdkListConfigurable.UI">
             <settings>
               <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="MarkdownNavigator.LinkMap.UI">
+            <settings>
               <splitter-proportions>
                 <option name="proportions">
                   <list>

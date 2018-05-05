@@ -2,283 +2,2389 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="D:\os-spring-boot-projects" />
-        <option value="D:\tmp2\JGSK" />
-        <option value="D:\tmp2\restfeel" />
-        <option value="D:\tmp" />
-        <option value="D:\tmp2" />
-        <option value="D:\app.workspace\base4.0.0CR\ecloud-microservice-base" />
-        <option value="D:\app.workspace\ecloud\ecloud-framework" />
-        <option value="D:\app.workspace\ecloud-app\ecloud-framework-webapp-endpoint" />
-        <option value="D:\groovy" />
-        <option value="D:\app.workspace\ecloud-microservice-el" />
-        <option value="D:\app.workspace\demo_zuul" />
-        <option value="D:\app.workspace\demo" />
-        <option value="D:\groovy\VoucherRule" />
-        <option value="D:\os-spring-boot-projects\zipkin-server-example" />
-        <option value="D:\os-utils\jwt\multi-file-upload" />
-        <option value="D:\app.workspace\el3.5.7\el-parent" />
-        <option value="D:\app.workspace\ecloud-microservice\ecloud-microservice-emailandsms" />
-        <option value="D:\ecloud-framework-ratelimiter" />
-        <option value="D:\os-spring-boot-examples\mybatisplus-maven-plugin" />
-        <option value="D:\os-utils\common-tools" />
-        <option value="D:\os-spring-boot-vaadin" />
-        <option value="D:\os-spring-boot-ymate" />
+        <option value="C:/tmp/Gradle3.0自动化项目构建技术精讲+实战/e3bnyl/commonlibrary" />
+        <option value="C:/tmp/Gradle3.0自动化项目构建技术精讲+实战/e3bnyl/GroovySpecification" />
+        <option value="C:/tmp/Gradle3.0自动化项目构建技术精讲+实战/e3bnyl" />
+        <option value="D:/tmp.springcloud1/002.zscat" />
+        <option value="D:/app.workspace/ecloud/ecloud-framework" />
+        <option value="D:/app.workspace/ecloud/ecloud-framework-foundation/ecloud-framework-gateway" />
+        <option value="c:/tmp//demo" />
+        <option value="D:/tmp.springcloud" />
+        <option value="D:/tmp.aliyun" />
+        <option value="D:/tmp.aipaas" />
+        <option value="D:/app.workspace/ecloud/ecloud-framework-foundation/ecloud-framework-uaa" />
+        <option value="D:/tmp.hetane.dev/开发/基础框架/crawler" />
+        <option value="D:/tmp.idea" />
+        <option value="C:/tmp/docker-build-demo/docker-build-demo" />
+        <option value="D:/app.workspace/ecloud/ecloud-framework-uaa" />
+        <option value="D:/tmp.jhipster" />
+        <option value="D:/tmp.IdeaProject" />
+        <option value="C:/tmp/Idea Project" />
+        <option value="D:/app.workspace/ecloud/ecloud-framework-foundation/ecloud-framework-registry" />
+        <option value="C:/tmp/ecloud/ecloud-framework" />
+        <option value="D:/app.workspace/ecloud-microservices/ecloud-microservice-base" />
+        <option value="D:/app.workspace/ecloud/ecloud-framework-app/ecloud-framework-webapp-endpoint" />
+        <option value="E:/BaiduNetdiskDownload/app.Vue核心技术 Vue+Vue-Router+Vuex+SSR实战精讲（不加密版）/vue-ssr-tech" />
+        <option value="E:/BaiduNetdiskDownload/app.Vue核心技术 Vue+Vue-Router+Vuex+SSR实战精讲（不加密版）/vue-tech" />
+        <option value="C:/tmp" />
+        <option value="D:/tmp/JHappy" />
+        <option value="C:/tmp/ecloud/ecloud-framework-foundation/ecloud-framework-uaa" />
+        <option value="D:/tmp.social" />
+        <option value="D:/app.workspace/ecloud-microservices/demo" />
+        <option value="D:/tmp/logback" />
+        <option value="D:/app.workspace/ecloud/ecloud-framework-passport" />
+        <option value="D:/app.workspace/ecloud/ecloud-framework-uaa-" />
+        <option value="D:/tmp.springcloud/nbb-boss" />
+        <option value="D:/tmp/feign-test" />
+        <option value="D:/app.v/springcloud无密/springcloud_sell" />
+        <option value="D:/app.v/springcloud无密/springcloud_sell/eureka" />
+        <option value="D:/app.v/springcloud无密/springcloud_sell/config" />
+        <option value="D:/app.v/springcloud无密/springcloud_sell/client" />
+        <option value="D:/app.v/springcloud无密/springcloud_sell/api-gateway" />
+        <option value="D:/app.workspace/ecloud/ecloud-framework-uaa-2" />
+        <option value="D:/app.workspace/ecloud-microservices/ecloud-microservice-passport" />
+        <option value="C:/tmp/demos" />
+        <option value="D:/tmp.sso/imooc-security" />
+        <option value="D:/app.workspace/ecloud-microservices/ecloud-microservice-demo" />
+        <option value="D:/tmp.sso" />
+        <option value="D:/tmp.j360" />
+        <option value="D:/tmp.workspace/nbb-boss" />
+        <option value="D:/tmp.groovy" />
+        <option value="D:/tmp.java" />
+        <option value="D:/tmp.jeewx" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="D:\tmp2" />
-        <option value="D:\os-spring-boot-projects" />
+        <option value="C:/tmp/Gradle3.0自动化项目构建技术精讲+实战/e3bnyl/commonlibrary" />
       </list>
     </option>
-    <option name="lastPath" value="D:\os-spring-boot-projects" />
+    <option name="lastPath" value="C:/tmp/Gradle3.0自动化项目构建技术精讲+实战/e3bnyl/commonlibrary" />
     <option name="additionalInfo">
       <map>
-        <entry key="D:\app.workspace\base4.0.0CR\ecloud-microservice-base">
+        <entry key="$USER_HOME$">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505440683439" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1507774380131" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\app.workspace\demo">
+        <entry key="C:/logs/demo">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505347078913" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1514407537922" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\app.workspace\demo_zuul">
+        <entry key="C:/tmp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524004642912" />
+              <option name="buildTimestamp" value="1503351288207" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/tmp/Gradle3.0自动化项目构建技术精讲+实战/e3bnyl">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1525452303122" />
+              <option name="buildTimestamp" value="1503351294454" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/tmp/Gradle3.0自动化项目构建技术精讲+实战/e3bnyl/GroovySpecification">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1525460140791" />
+              <option name="buildTimestamp" value="1503351270768" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/tmp/Gradle3.0自动化项目构建技术精讲+实战/e3bnyl/commonlibrary">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1525480795375" />
+              <option name="buildTimestamp" value="1503351270768" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/tmp/Idea Project">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524195343484" />
+              <option name="buildTimestamp" value="1503351288207" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/tmp/app">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1517512795407" />
+              <option name="buildTimestamp" value="1503351259974" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/tmp/demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520327501136" />
+              <option name="buildTimestamp" value="1503351265127" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/tmp/demo11">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520586795330" />
+              <option name="buildTimestamp" value="1503351290360" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/tmp/demos">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522792483096" />
+              <option name="buildTimestamp" value="1503351288616" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/tmp/docker-build-demo/docker-build-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524532567644" />
+              <option name="buildTimestamp" value="1503351264965" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/tmp/ecloud/ecloud-framework">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524189632850" />
+              <option name="buildTimestamp" value="1503351288207" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/tmp/ecloud/ecloud-framework-foundation/ecloud-framework-uaa">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523630774703" />
+              <option name="buildTimestamp" value="1503351288207" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/tmp/microservice/springcloud-demo/common/configserver">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505351075306" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1514407219642" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\app.workspace\ecloud-app\ecloud-framework-webapp-endpoint">
+        <entry key="C:/tmp/microservice/springcloud-demo/common/discovery">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505439275652" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1514407222044" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\app.workspace\ecloud-microservice-el">
+        <entry key="C:/tmp/microservice/springcloud-demo/common/gateway">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505351645520" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513944830748" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\app.workspace\ecloud-microservice\ecloud-microservice-emailandsms">
+        <entry key="C:/tmp/microservice/springcloud-demo/common/hystrix-dashboard">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1504884252040" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1514407214477" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\app.workspace\ecloud\ecloud-framework">
+        <entry key="C:/tmp/microservice/springcloud-demo/common/hystrix-turbine-mq">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505440608699" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1514407217284" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\app.workspace\el3.5.7\el-parent">
+        <entry key="C:/tmp/microservice/springcloud-demo/common/track">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1504964727334" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513944837426" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\ecloud-framework-ratelimiter">
+        <entry key="C:/tmp/microservice/springcloud-demo/service/helloworld">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1504875158939" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1514407208758" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\groovy">
+        <entry key="C:/tmp/microservice/springcloud-demo/service/world">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505437188847" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1514407174487" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\groovy\VoucherRule">
+        <entry key="C:/tmp/ms">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1517513889059" />
+              <option name="buildTimestamp" value="1503351259974" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/tmp/spring-cloud-examples/hystrix-dashboard-turbine/hystrix-dashboard-turbine">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505337551918" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513930432900" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\os-spring-boot-examples\mybatisplus-maven-plugin">
+        <entry key="C:/tmp/spring-cloud-examples/hystrix-dashboard-turbine/spring-cloud-consumer-hystrix-dashboard">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1504859728114" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513930414216" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\os-spring-boot-projects">
+        <entry key="C:/tmp/spring-cloud-examples/hystrix-dashboard-turbine/spring-cloud-consumer-node1">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505457619487" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513944523220" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\os-spring-boot-projects\zipkin-server-example">
+        <entry key="C:/tmp/spring-cloud-examples/hystrix-dashboard-turbine/spring-cloud-consumer-node2">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505002253590" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513944436315" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\os-spring-boot-vaadin">
+        <entry key="C:/tmp/spring-cloud-examples/hystrix-dashboard-turbine/spring-cloud-eureka">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1504854547712" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513930422660" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\os-spring-boot-ymate">
+        <entry key="C:/tmp/spring-cloud-examples/spring-cloud-hystrix/spring-cloud-consumer-hystrix">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1504853975940" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513930383460" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\os-utils\common-tools">
+        <entry key="C:/tmp/spring-cloud-examples/spring-cloud-hystrix/spring-cloud-producer">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1504859555928" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513931012249" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\os-utils\jwt\multi-file-upload">
+        <entry key="C:/tmp/uaa">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1517513983324" />
+              <option name="buildTimestamp" value="1503351259974" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D://demo">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1504980998091" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1506069467161" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\tmp">
+        <entry key="D:/RxJavaTest">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505444022222" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1507854719997" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\tmp2">
+        <entry key="D:/SpringCloud_Release/particle-commonservice">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505441886083" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508449341418" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\tmp2\JGSK">
+        <entry key="D:/app.cloud">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505444903657" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1509762699791" />
               <option name="buildTimestamp" value="1473350400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:\tmp2\restfeel">
+        <entry key="D:/app.cloud-5">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-162.2032.8" />
               <option name="productionCode" value="IU" />
-              <option name="binFolder" value="D:\app\idea2016\bin" />
-              <option name="projectOpenTimestamp" value="1505444857777" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1509997226648" />
               <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.cloud/boot-rest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1509762557726" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.cloud/generator-spring">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508886515612" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.cloud/google-guava-showcase">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1509171205006" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.consul">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1511277021403" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.consul/spring-cloud-consul">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508566341944" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.feign">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1512840517601" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.feign/Spring-boot-/FileUploader">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1512760260419" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.feign/Spring-boot-/MemoryTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1512759966677" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.feign/adtcloud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1512704965238" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.feign/alice-projects">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1512713522693" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.feign/spring-cloud-books">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1512792935186" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.feign/spring-cloud-task">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1512797657373" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.spring-cloud-turbine">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1507527391223" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.spring-cloud-turbine/SpringCloudLearning/chapter13">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1507736096753" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.spring-cloud-turbine/ace-cloud-service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1507527570160" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.spring-cloud-turbine/spring-cloud-7simple/cloud-eureka-server">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1507853344045" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.spring-cloud-turbine/spring-cloud-7simple/cloud-hystrix-dashboard">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1507853379639" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.spring-cloud-turbine/spring-cloud-7simple/cloud-monitor-server">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1507852914989" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.spring-cloud-turbine/spring-cloud-7simple/cloud-simple-helloword">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1507853389694" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.spring-cloud-turbine/spring-cloud-7simple/cloud-simple-service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1507853396699" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.spring-cloud-turbine/spring-cloud-demo/admin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1506619481973" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.spring-cloud-turbine/spring-cloud-demo/consumer-test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1506619489174" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.spring-cloud-turbine/spring-cloud-demo/eureka-server">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1506619495484" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.spring-cloud-turbine/spring-cloud-demo/provider-test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1506619510416" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.spring-cloud-turbine/springCloud/qitoon-base-service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1507693115020" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.spring-cloud-turbine/springCloud/wuye-toon">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1507718647581" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.stream/spring-cloud-stream-samples">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1509441668335" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.v/springcloud无密/springcloud_sell">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523205000149" />
+              <option name="buildTimestamp" value="1503351288616" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.v/springcloud无密/springcloud_sell/api-gateway">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523204906266" />
+              <option name="buildTimestamp" value="1503351288616" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.v/springcloud无密/springcloud_sell/client">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523204927991" />
+              <option name="buildTimestamp" value="1503351288616" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.v/springcloud无密/springcloud_sell/config">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523204931903" />
+              <option name="buildTimestamp" value="1503351288616" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.v/springcloud无密/springcloud_sell/eureka">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523204938903" />
+              <option name="buildTimestamp" value="1503351288616" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1512673487019" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/demo1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516868876680" />
+              <option name="buildTimestamp" value="1503351256822" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-docs/数据库开发/office">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1509975187098" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523624787125" />
+              <option name="buildTimestamp" value="1503351288207" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/demo1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1509692898888" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/demo2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1509540180898" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/ecloud-microservice-base">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524189603395" />
+              <option name="buildTimestamp" value="1503351288207" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/ecloud-microservice-cms">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508059657621" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/ecloud-microservice-comment">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520919827696" />
+              <option name="buildTimestamp" value="1503351290360" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/ecloud-microservice-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522650664026" />
+              <option name="buildTimestamp" value="1503351257620" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/ecloud-microservice-dy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1518102246042" />
+              <option name="buildTimestamp" value="1503351286245" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/ecloud-microservice-el">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519870938730" />
+              <option name="buildTimestamp" value="1503351255178" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/ecloud-microservice-file">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520579493991" />
+              <option name="buildTimestamp" value="1503351290360" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/ecloud-microservice-jsxx">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1514974693453" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/ecloud-microservice-logging">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519975288478" />
+              <option name="buildTimestamp" value="1503351255178" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/ecloud-microservice-notice">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516079242219" />
+              <option name="buildTimestamp" value="1503351260781" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/ecloud-microservice-passport">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523190216695" />
+              <option name="buildTimestamp" value="1503351288616" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/ecloud-microservice-rc">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1515262746737" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/ecloud-microservice-repair">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1515807451947" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/ecloud-microservice-sc">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508292164804" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/ecloud-microservice-signup">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520583739510" />
+              <option name="buildTimestamp" value="1503351290360" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/ecloud-microservice-site">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508058951708" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/ecloud-microservice-template">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508058961287" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud-microservices/ecloud-microservice-word">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1517187191407" />
+              <option name="buildTimestamp" value="1503351295128" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1525330820762" />
+              <option name="buildTimestamp" value="1503351255563" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework-app/ecloud-framework-webapp-endpoint">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524155193190" />
+              <option name="buildTimestamp" value="1503351288207" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework-assembly">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508063578596" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework-config">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520579703268" />
+              <option name="buildTimestamp" value="1503351290360" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework-foundation/ecloud-framework-gateway">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1525327889755" />
+              <option name="buildTimestamp" value="1503351255563" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework-foundation/ecloud-framework-registry">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524189667029" />
+              <option name="buildTimestamp" value="1503351288207" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework-foundation/ecloud-framework-uaa">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524901453512" />
+              <option name="buildTimestamp" value="1503351248552" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework-generate">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508883993045" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework-generate-microservice">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508885057542" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework-monitor">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513764001381" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework-parent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513192763515" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework-passport">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523610323402" />
+              <option name="buildTimestamp" value="1503351288207" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework-registry">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1511163454174" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework-turbine">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1511978646410" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework-uaa">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524479155190" />
+              <option name="buildTimestamp" value="1503351288539" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework-uaa-">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523603242267" />
+              <option name="buildTimestamp" value="1503351288207" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework-uaa-2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523199241331" />
+              <option name="buildTimestamp" value="1503351288616" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework-zipkin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1515761460073" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework/ecloud-framework-archetype">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508886674077" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework/ecloud-framework-starter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508981236811" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework/ecloud-framework-starter-dependencies">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508663781425" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework/ecloud-framework-starter-dependencies/ecloud-framework-starter-app">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513194107078" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework/ecloud-framework-starter-logging/ecloud-framework-starter-logging-amqp-consumer-stream">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519722274943" />
+              <option name="buildTimestamp" value="1503351257357" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-framework/ecloud-framework-starter-logging/ecloud-framework-starter-logging-amqp-producer-stream">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519716443122" />
+              <option name="buildTimestamp" value="1503351257357" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/ecloud-microservice-turbine">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508769761408" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/ecloud/feign-client-maven-plugin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1510219071315" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app.workspace/framework-generator">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508671494213" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app/office-convertion">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1510473894768" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/app/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1510474601859" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code-generate">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508885620365" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/favorites/favorites-web">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508884979842" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/llsfw">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1509805333625" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/odjug-cloud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1509804678777" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/os-j360">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1509798588917" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/os-jhipster/jh-md-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508259507894" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/os-jhipster/jhipster-loaded">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508036105774" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/os-jhipster/jhipster-microservices-docker">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1507968278762" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/os-jhipster/jhipster4-project">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508038581329" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/os-project/spring-cloud-microservice-study">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1507980187996" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/os-project/spring-cloud-microservice-study/microservice-zipkin-stream-server">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1507614595218" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/os-spring-boot-examples">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1508878123593" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/os-spring-boot-ymate">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1511277167348" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/os-workspace-sts-3.7.3.RELEASE/elastic.io">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1510063224969" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/spring-boot-admin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1506070499659" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/spring-boot-admin-samples/basic-auth">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1506096307329" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/spring-boot-admin-samples/oauth2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1506096303638" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/spring-boot-admin-samples/spring-session">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1506096097367" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1507718104573" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.IdeaProject">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524434044750" />
+              <option name="buildTimestamp" value="1503351259778" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.aipaas">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524960135220" />
+              <option name="buildTimestamp" value="1503351241447" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.aliyun">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524974766483" />
+              <option name="buildTimestamp" value="1503351241937" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.cloud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513635963500" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.cloud/SpringCloudTutorial">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513589109420" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.cloud/spring-boot-demo/spring-boot-demo-ureport2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513626135963" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.groovy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521027010754" />
+              <option name="buildTimestamp" value="1503351290360" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.hetane.dev/开发/基础框架/crawler">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524563442093" />
+              <option name="buildTimestamp" value="1503351264965" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.idea">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524556216317" />
+              <option name="buildTimestamp" value="1503351264965" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.j360">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522246748851" />
+              <option name="buildTimestamp" value="1503351280852" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.java">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520948436254" />
+              <option name="buildTimestamp" value="1503351290360" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.java1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1517154986007" />
+              <option name="buildTimestamp" value="1503351275971" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.jee">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520867926298" />
+              <option name="buildTimestamp" value="1503351290360" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.jeewx">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520948416133" />
+              <option name="buildTimestamp" value="1503351290360" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.jhipster">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524435895885" />
+              <option name="buildTimestamp" value="1503351259778" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.license/License-Server">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516972039823" />
+              <option name="buildTimestamp" value="1503351275971" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.license/License3j">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516971846017" />
+              <option name="buildTimestamp" value="1503351275971" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.license/TrueLicense">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516971778458" />
+              <option name="buildTimestamp" value="1503351275971" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.license/cckj_license">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516965355968" />
+              <option name="buildTimestamp" value="1503351275971" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.license/license-kit">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516971919700" />
+              <option name="buildTimestamp" value="1503351275971" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.license/license-tool">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516973868262" />
+              <option name="buildTimestamp" value="1503351275971" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.license/licensius">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516965137547" />
+              <option name="buildTimestamp" value="1503351275971" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.rabbitmq">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520597738880" />
+              <option name="buildTimestamp" value="1503351290360" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.social">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523628236914" />
+              <option name="buildTimestamp" value="1503351288207" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springboot">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513636133781" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524986321209" />
+              <option name="buildTimestamp" value="1503351241937" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud/EumJi-blog">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513696138933" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud/JavaSpringSurmmary/SpringPattern">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516894441793" />
+              <option name="buildTimestamp" value="1503351256822" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud/JavaSpringSurmmary/data-ingestion-demo-war">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516894451706" />
+              <option name="buildTimestamp" value="1503351256822" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud/JavaSpringSurmmary/java-license-jar">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516965140339" />
+              <option name="buildTimestamp" value="1503351275971" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud/JrebelLicenseServerforJava">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1517536639802" />
+              <option name="buildTimestamp" value="1503351262029" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud/MarkdownViewTools-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513699245726" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud/SpringCloudBook">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513927140835" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud/alice-projects">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513686158052" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud/demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513750510294" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud/devops">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1512891326222" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud/generator-web">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513697833303" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud/jvisualvm">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513498042837" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud/nbb-boss">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523544100471" />
+              <option name="buildTimestamp" value="1503351288207" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud/spring-cloud-docker-microservice-book-code">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513760830183" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud/spring-cloud-event-sourcing-example">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513780727939" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud/spring-cloud-gateway">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513760853938" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud/spring-cloud-gateway/spring-cloud-gateway-sample">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513027429549" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud/spring-cloud-genisys">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513760868448" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud/spring-cloud-platform">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1513790108658" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud02">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516979863515" />
+              <option name="buildTimestamp" value="1503351275971" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.springcloud1/002.zscat">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1525452299157" />
+              <option name="buildTimestamp" value="1503351294454" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.sso">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522286782880" />
+              <option name="buildTimestamp" value="1503351254958" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.sso/imooc-security">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522736879231" />
+              <option name="buildTimestamp" value="1503351288616" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.sso13/imooc-security">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516096763855" />
+              <option name="buildTimestamp" value="1503351260781" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.swagger/swagger-starter-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1517103754518" />
+              <option name="buildTimestamp" value="1503351275971" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.vue/VueDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1515315138360" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.workspace">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520848732350" />
+              <option name="buildTimestamp" value="1503351290360" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.workspace-sts-3.7.3.RELEASE">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1515702979519" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.workspace/nbb-boss">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521616451400" />
+              <option name="buildTimestamp" value="1503351265951" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp.zipkin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1518034274106" />
+              <option name="buildTimestamp" value="1503351286245" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp/JHappy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523931081715" />
+              <option name="buildTimestamp" value="1503351288207" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp/feign-test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523543657432" />
+              <option name="buildTimestamp" value="1503351288207" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp/logback">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523621401101" />
+              <option name="buildTimestamp" value="1503351288207" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp/mvnlib">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1507777811240" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/tmp/pcs">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1507797678531" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/BaiduNetdiskDownload/app.Vue核心技术 Vue+Vue-Router+Vuex+SSR实战精讲（不加密版）/vue-ssr-tech">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524155190366" />
+              <option name="buildTimestamp" value="1503351288207" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/BaiduNetdiskDownload/app.Vue核心技术 Vue+Vue-Router+Vuex+SSR实战精讲（不加密版）/vue-tech">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524155095580" />
+              <option name="buildTimestamp" value="1503351288207" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/BaiduNetdiskDownload/app.java8/source/java8-day01">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1515702079270" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/BaiduNetdiskDownload/app15.111jsaas/jsaas-dev-v2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1515434568097" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/BaiduNetdiskDownload/app15.111jsaas/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1515435244613" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/BaiduNetdiskDownload/app15.111jsaas/untitled1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1515435279201" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/tmp.springboot">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1510063596191" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/tmp.springcloud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-162.2032.8" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/app/idea2016/bin" />
+              <option name="projectOpenTimestamp" value="1510153029945" />
+              <option name="buildTimestamp" value="1473350400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="c:/tmp//demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1525259858192" />
+              <option name="buildTimestamp" value="1503351270607" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="c:/tmp/demos">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522736147624" />
+              <option name="buildTimestamp" value="1503351288616" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="D:/tmp2" />
+    <option name="lastProjectLocation" value="D:/app.workspace/ecloud/ecloud-framework-foundation" />
   </component>
 </application>
